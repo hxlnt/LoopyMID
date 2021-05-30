@@ -2,7 +2,7 @@ const fs = require('fs');
 var Midi = {}
 var tempstore;
 
-fs.stat('../example/e0b2cda.bin', (status, stats) => {
+fs.stat('../sample/input/e0b2cda.bin', (status, stats) => {
     if (status) {
         console.log(status.message);
         return;
@@ -10,7 +10,7 @@ fs.stat('../example/e0b2cda.bin', (status, stats) => {
     else { tempstore = Buffer.alloc(stats.size); }
 })
 
-fs.open('../example/e0b2cda.bin', 'r', (status, fd) => {
+fs.open('../sample/input/e0b2cda.bin', 'r', (status, fd) => {
     if (status) {
         console.log(status.message);
         return;
@@ -71,7 +71,7 @@ fs.open('../example/e0b2cda.bin', 'r', (status, fd) => {
                 console.log(footer);
             }
 
-            fs.writeFile('../example/json/e0b2cda.json', JSON.stringify(Midi), status => {
+            fs.writeFile('../sample/json/e0b2cda.json', JSON.stringify(Midi), status => {
                 if (status) {
                     console.error(status.message);
                     return;
