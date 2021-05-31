@@ -28,14 +28,10 @@ for (j=0; j<(Midi.Events.length - 1); j++) {
     track.chunkData = track.chunkData + getFrame(Midi.Events[j]);
 }
 
-
 trackByteCounter = ((track.chunkData.length / 2) + 4).toString(16);
-console.log(trackByteCounter);
 padded = "0000000" + trackByteCounter;
 amountToTrim = padded.length - 8;
 track.chunkLength = padded.substr(amountToTrim,8);
-//track.chunkLength = ("0000000" + trackByteCounter).substr(-1,8);
-console.log(track.chunkLength);
 megaString = header.chunkType + header.chunkLength + header.chunkData.format + header.chunkData.tracks + header.chunkData.division + track.chunkType + track.chunkLength + track.chunkData + footer;
 
 console.log(megaString);
