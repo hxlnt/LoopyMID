@@ -437,14 +437,14 @@ const instrumentMap = [
         "Code": "3E",
         "Name": "SYNTH LEAD 1" },
     "Standard": {
-        "Code": "51",
+        "Code": "50",
         "Name": "Synth square wave" }
     },
     { "Loopy": {
         "Code": "3F",
         "Name": "SYNTH LEAD 2" },
     "Standard": {
-        "Code": "53",
+        "Code": "51",
         "Name": "Synth saw wave" }
     },
     { "Loopy": {
