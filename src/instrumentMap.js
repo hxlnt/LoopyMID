@@ -759,14 +759,14 @@ const instrumentMap = [
         "Code": "6C",
         "Name": "ENSEMBLE 4" },
     "Standard": {
-        "Code": "36",
-        "Name": "Synth choir / voices" }
+        "Code": "37",
+        "Name": "Orchestra hit" }
     },
     { "Loopy": {
         "Code": "6D",
         "Name": "ENSEMBLE 5" },
     "Standard": {
-        "Code": "37",
-        "Name": "Orchestra hit" }
+        "Code": "36",
+        "Name": "Synth choir / voices" }
     }
 ]
