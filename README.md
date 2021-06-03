@@ -11,7 +11,7 @@ This command-line tool allows you to convert the proprietary MIDI-like audio for
 ```node loopymid.js --binaryFile "path/to/loopy.bin" [-debug] [--outputFile "path/to/loopy.mid"]```
  - `--binaryFile` specifies the binary containing Loopy music data.
  - `-debug` optionally exports relevant MIDI data as a JSON object. This may be useful for debugging.
- - `--outputFile` optionally specifies where the MIDI file should be output; the default is the `loopymid` root folder.
+ - `--outputFile` optionally specifies a custom path and file name for the MIDI file output.
 
 ## Planned features
  - Support for passing separate instrument header when Loopy binary does not already contain it
@@ -21,7 +21,7 @@ This command-line tool allows you to convert the proprietary MIDI-like audio for
 ## Additional information
  - This codebase makes no network calls and requires no installation of dependencies (*e.g.,* via `npm install`)
  - The Loopy-to-MIDI conversion substitutes non-standard Loopy instrument codes for approximations in General MIDI as illustrated in `src\instrumentMap.js`
- - Code written by the self-proclaimed Loopy Princess, [hxlnt (Rachel Simone Weil)](https://github.com/hxlnt)
+ - Code written by self-proclaimed Loopy Babe [hxlnt (Rachel Simone Weil)](https://github.com/hxlnt)
 
 ## Thanks
  - [Phil Bennett](https://github.com/philipjbennett/)
