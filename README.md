@@ -12,17 +12,17 @@ Code is written in Node.js by [hxlnt (Rachel Simone Weil)](https://github.com/hx
 > **Note** The usage instructions below do not yet work, as this codebase is still in progress.
 
 ### Convert Loopy binary to MIDI
-```node loopymid.js --binaryFile="path/to/loopy.bin" [-json --instFile="path/to/inst.bin" --outputFile="path/to/loopy.mid" --format=0]```
+```node loopymid.js --binaryFile "path/to/loopy.bin" [-debug --instFile "path/to/inst.bin" --outputFile "path/to/loopy.mid" --format 0]```
  - `--binaryFile` specifies the binary containing Loopy music data.
- - `-json` optionally exports relevant MIDI data in a JSON file. This may be useful for debugging.
+ - `-debug` optionally exports relevant MIDI data as a JSON object. This may be useful for debugging.
  - `--instFile` optionally allows you to pass a second file that contains instrument setup data if the main file does not already contain it. This file is usually around 16 bytes.
  - `--outputFile` optionally specifies where the MIDI file should be output; the default is the `loopymid` root folder.
  - `--format` optionally allows you to select the MIDI Format 0 (`0`), Format 1 (`1`), or Format 2 (`2`) files. Presently, only Format 0 is supported, so this flag is currently ignored.
  
 ### Convert Loopy binary to MIDI
-```node loopymid.js --midiFile="path/to/loopy.mid" [-json --outputFile="path/to/loopy.mid"]```
+```node loopymid.js --midiFile "path/to/loopy.mid" [-debug --outputFile "path/to/loopy.bin"]```
  - `--midiFile` specifies the MIDI file to be converted.
- - `-json` optionally exports relevant MIDI data in a JSON file. This may be useful for debugging.
+ - `-debug` optionally exports relevant MIDI data as a JSON object. This may be useful for debugging.
  - `--outputFile` optionally specifies where the Loopy binary file should be output; the default is the `loopymid` root folder.
 
 ## Current limitations, known issues, and to-dos
@@ -31,7 +31,6 @@ Code is written in Node.js by [hxlnt (Rachel Simone Weil)](https://github.com/hx
 3. Instrument mapping has not been compared against hardware samples.
 4. No tests and no handling of invalid MIDI files.
 5. Command-line usage not yet implemented.
-6. Only working export is Loopy to JSON.
 
 ## Thanks
  - [Phil Bennett](https://github.com/philipjbennett/)
