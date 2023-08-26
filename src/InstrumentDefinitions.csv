@@ -1,0 +1,770 @@
+Row  ,Par1 ,Par2 ,Smp1 ,Par3 ,Par4 ,Smp2 ,Inst# ,InstName      ,Smp1Desc ,Smp1Note ,Smp2Desc ,Smp2Note
+
+0000 ,0058 ,00c0 ,0000 ,0000 ,00c0 ,0000 ,00    ,PIANO1        ,Piano1   ,A0       ,Piano1   ,A0
+0001 ,0058 ,00c1 ,0001 ,0000 ,00c1 ,0001 ,00    ,PIANO1        ,Piano1   ,E1       ,Piano1   ,E1
+0002 ,0058 ,00c4 ,0002 ,0000 ,00c4 ,0002 ,00    ,PIANO1        ,Piano1   ,A1       ,Piano1   ,A1
+0003 ,0058 ,00c3 ,0003 ,0000 ,00c3 ,0003 ,00    ,PIANO1        ,Piano1   ,E2       ,Piano1   ,E2
+0004 ,0058 ,00c2 ,0004 ,0000 ,00c2 ,0004 ,00    ,PIANO1        ,Piano1   ,A2       ,Piano1   ,A2
+0005 ,0058 ,00c8 ,0005 ,0000 ,00c8 ,0005 ,00    ,PIANO1        ,Piano1   ,E3       ,Piano1   ,E3
+0006 ,0058 ,00bd ,0006 ,0000 ,00bd ,0006 ,00    ,PIANO1        ,Piano1   ,A3       ,Piano1   ,A3
+0007 ,0058 ,00be ,0194 ,0000 ,00be ,0194 ,00    ,PIANO1        ,Piano1   ,D4       ,Piano1   ,D4		
+0008 ,0058 ,00bf ,0194 ,0000 ,00bf ,0194 ,00    ,PIANO1        ,Piano1   ,D4       ,Piano1   ,D4
+
+0009 ,0000 ,007c ,0007 ,0000 ,007c ,0007 ,01    ,HARPSICHORD1  ,HrpsiH   ,A0       ,HrpsiH   ,A0
+000a ,0000 ,0084 ,0009 ,0000 ,0084 ,0009 ,01    ,HARPSICHORD1  ,HrpsiH   ,A1       ,HrpsiH   ,A1
+000b ,0000 ,0087 ,000b ,0000 ,0087 ,000b ,01    ,HARPSICHORD1  ,HrpsiH   ,A2       ,HrpsiH   ,A2
+000c ,0000 ,0089 ,000d ,0000 ,0089 ,000d ,01    ,HARPSICHORD1  ,HrpsiH   ,A3       ,HrpsiH   ,A3
+000d ,0000 ,008b ,000f ,0000 ,008b ,000f ,01    ,HARPSICHORD1  ,HrpsiH   ,A4       ,HrpsiH   ,A4
+
+000e ,0031 ,0045 ,0010 ,0012 ,0045 ,0010 ,02    ,VIBRAPHONE1   ,Sine1    ,A1       ,Sine1    ,A1
+000f ,0031 ,002d ,0014 ,0012 ,002d ,0014 ,02    ,VIBRAPHONE1   ,SineM1   ,A1       ,SineM1   ,A1
+0010 ,0031 ,0045 ,0010 ,0012 ,0045 ,0010 ,02    ,VIBRAPHONE1   ,Sine1    ,A1       ,Sine1    ,A1 
+0011 ,0031 ,002d ,0014 ,0012 ,002d ,0014 ,02    ,VIBRAPHONE1   ,SineM1   ,A1       ,SineM1   ,A1
+0012 ,0031 ,0045 ,0011 ,0012 ,0045 ,0011 ,02    ,VIBRAPHONE1   ,Sine1    ,A2       ,Sine1    ,A2
+0013 ,0031 ,002d ,0015 ,0012 ,002d ,0015 ,02    ,VIBRAPHONE1   ,SineM1   ,A2       ,SineM1   ,A2
+0014 ,0031 ,0045 ,0012 ,0012 ,0045 ,0012 ,02    ,VIBRAPHONE1   ,Sine1    ,A3       ,Sine1    ,A3
+0015 ,0031 ,002d ,0016 ,0012 ,002d ,0016 ,02    ,VIBRAPHONE1   ,SineM1   ,A3       ,SineM1   ,A3
+0016 ,0031 ,0045 ,0013 ,0012 ,0045 ,0013 ,02    ,VIBRAPHONE1   ,Sine1    ,A4       ,Sine1    ,A4
+0017 ,0031 ,002d ,0017 ,0012 ,002d ,0017 ,02    ,VIBRAPHONE1   ,SineM1   ,A4       ,SineM1   ,A4
+
+0018 ,0031 ,0000 ,0018 ,0000 ,00c9 ,0018 ,03    ,DISTGUITAR    ,DistG1   ,A1       ,DistG1   ,A1
+0019 ,0031 ,0000 ,001a ,0000 ,00c9 ,001a ,03    ,DISTGUITAR    ,DistG1   ,A2       ,DistG1   ,A2			
+001a ,0031 ,0000 ,001d ,0000 ,00c9 ,001d ,03    ,DISTGUITAR    ,DistG1   ,A3       ,DistG1   ,A3
+001b ,0031 ,0000 ,001d ,0000 ,00c9 ,001d ,03    ,DISTGUITAR    ,DistG1   ,A3       ,DistG1   ,A3
+
+001c ,0031 ,0018 ,0022 ,0000 ,00df ,0022 ,04    ,SAXOPHONE     ,Horn1    ,A1       ,Horn1    ,A1
+001d ,0031 ,0018 ,0023 ,0000 ,00df ,0023 ,04    ,SAXOPHONE     ,Horn1    ,A2       ,Horn1    ,A2
+001e ,0031 ,0018 ,0024 ,0000 ,00df ,0025 ,04    ,SAXOPHONE     ,Horn1    ,A4       ,Horn2    ,A4
+001f ,0031 ,0018 ,0026 ,0000 ,00df ,0027 ,04    ,SAXOPHONE     ,Horn1    ,A3       ,Horn2    ,A3
+
+0020 ,000b ,0010 ,0028 ,000b ,0096 ,0028 ,05    ,SYNTHREED1    ,SawM1    ,A0       ,SawM1    ,A0
+0021 ,000b ,0010 ,0029 ,000b ,0096 ,0029 ,05    ,SYNTHREED1    ,SawM1    ,A1       ,SawM1    ,A1
+0022 ,000b ,0010 ,002a ,000b ,0096 ,002a ,05    ,SYNTHREED1    ,SawM1    ,A2       ,SawM1    ,A2
+0023 ,000b ,0010 ,002b ,000b ,0096 ,002b ,05    ,SYNTHREED1    ,SawM1    ,A3       ,SawM1    ,A3
+0024 ,000b ,0010 ,002c ,000b ,0096 ,002c ,05    ,SYNTHREED1    ,SawM1    ,A4       ,SawM1    ,A4
+
+0025 ,0031 ,0057 ,002d ,0012 ,0057 ,002d ,06    ,JAZZORGAN     ,SineM2   ,A1       ,SineM2   ,A1
+0026 ,0031 ,0047 ,0031 ,0012 ,0047 ,0031 ,06    ,JAZZORGAN     ,SineW2   ,A1       ,SineW2   ,A1
+0027 ,0031 ,0057 ,002d ,0012 ,0057 ,002d ,06    ,JAZZORGAN     ,SineM2   ,A1       ,SineM2   ,A1
+0028 ,0031 ,0047 ,0031 ,0012 ,0047 ,0031 ,06    ,JAZZORGAN     ,SineW2   ,A1       ,SineW2   ,A1
+0029 ,0031 ,0057 ,002e ,0012 ,0057 ,002e ,06    ,JAZZORGAN     ,SineM2   ,A2       ,SineM2   ,A2
+002a ,0031 ,0047 ,0032 ,0012 ,0047 ,0032 ,06    ,JAZZORGAN     ,SineW2   ,A2       ,SineW2   ,A2 
+002b ,0031 ,0057 ,002f ,0012 ,0057 ,002f ,06    ,JAZZORGAN     ,SineM2   ,A3       ,SineM2   ,A3
+002c ,0031 ,0047 ,0033 ,0012 ,0047 ,0033 ,06    ,JAZZORGAN     ,SineW2   ,A3       ,SineW2   ,A3
+002d ,0031 ,0057 ,0030 ,0012 ,0057 ,0030 ,06    ,JAZZORGAN     ,SineM2   ,A4       ,SineM2   ,A4
+002e ,0031 ,0047 ,0034 ,0012 ,0047 ,0034 ,06    ,JAZZORGAN     ,SineW2   ,A4       ,SineW2   ,A4
+
+002f ,0037 ,00dd ,0035 ,0012 ,00dd ,0035 ,07    ,SYNTHBASS     ,EBass1   ,A1       ,EBass1   ,A1
+0030 ,0037 ,00dd ,0036 ,0012 ,00dd ,0036 ,07    ,SYNTHBASS     ,EBass1   ,A2       ,EBass1   ,A2
+0031 ,0037 ,00dd ,0037 ,0012 ,00dd ,0037 ,07    ,SYNTHBASS     ,EBass1   ,A4       ,EBass1   ,A4
+
+0032 ,0000 ,0094 ,0039 ,0031 ,005d ,0039 ,08    ,CATHEDRAL     ,SawW1    ,A1       ,SawW1    ,A1
+0033 ,0000 ,0032 ,003d ,0018 ,0032 ,0042 ,08    ,CATHERDAL     ,Organ1   ,A0       ,SineM3   ,A0
+0034 ,0037 ,005d ,0038 ,0031 ,005d ,0038 ,08    ,CATHEDRAL     ,SawW1    ,A1       ,SawW1    ,A1
+0035 ,0000 ,0032 ,003e ,0018 ,0032 ,0043 ,08    ,CATHEDRAL     ,Organ1   ,A1       ,SineM3   ,A1
+0036 ,0037 ,005d ,003a ,0031 ,005d ,003a ,08    ,CATHEDRAL     ,SawW1    ,A2       ,SawW2    ,A2
+0037 ,0000 ,0032 ,003f ,0018 ,0032 ,0044 ,08    ,CATHEDRAL     ,Organ1   ,A2       ,SineM3   ,A2
+0038 ,0037 ,005d ,003b ,0031 ,005d ,003b ,08    ,CATHEDRAL     ,SawW1    ,A3       ,SawW1    ,A3
+0039 ,0000 ,0032 ,0040 ,0018 ,0032 ,0045 ,08    ,CATHEDRAL     ,Organ1   ,A3       ,SineM3   ,A3
+003a ,0037 ,005d ,003c ,0031 ,005d ,003c ,08    ,CATHEDRAL     ,SawW1    ,A4       ,SawW1    ,A4
+003b ,0000 ,0032 ,0041 ,0018 ,0032 ,0046 ,08    ,CATHEDRAL     ,Organ1   ,A4       ,SineM3   ,A4
+
+003c ,0000 ,0094 ,0047 ,0003 ,0094 ,0047 ,09    ,STRINGS1      ,Strng1   ,A1       ,Strng1   ,A1
+003d ,0019 ,0094 ,0048 ,001b ,0094 ,0048 ,09    ,STRINGS1      ,Strng1   ,A2       ,Strng1   ,A2		
+003e ,0019 ,0094 ,0049 ,001b ,0094 ,0049 ,09    ,STRINGS1      ,Strng1   ,A4       ,Strng1   ,A4
+
+003f ,002b ,00c5 ,017a ,002b ,00c5 ,017a ,10    ,PIANO2        ,
+0040 ,0004 ,0076 ,0191 ,0004 ,0076 ,0191 ,10    ,PIANO2        ,Squar1   ,E2       ,Square1  ,E2
+0041 ,0000 ,00c6 ,0071 ,0000 ,00c6 ,0071 ,10    ,PIANO2        ,Xylo1    ,A2       ,Xylo1    ,A2
+0042 ,0000 ,00b2 ,0089 ,0000 ,00b2 ,0089 ,10    ,PIANO2        ,??       ,??       ,??       ,??
+0043 ,0000 ,0039 ,0085 ,0000 ,0039 ,0085 ,10    ,PIANO2        ,TriM1    ,A3       ,TriM1    ,A3
+0044 ,0000 ,00c7 ,0073 ,0000 ,00c7 ,0073 ,10    ,PIANO2        ,Xylo1    ,A4       ,Xylo1    ,A4
+0045 ,002b ,00a2 ,017b ,002a ,00a2 ,017b ,10    ,PIANO2        ,
+0046 ,0000 ,0077 ,0074 ,0000 ,0077 ,0074 ,10    ,PIANO2        ,Xylo1    ,B4       ,Xylo1    ,B4
+
+0048 ,0031 ,00c1 ,0001 ,0000 ,00c1 ,0001 ,11    ,PIANO3        ,Piano1   ,A0       ,Piano1   ,A0
+0049 ,0031 ,00c4 ,0002 ,0000 ,00c4 ,0002 ,11    ,PIANO3        ,Piano1   ,E1       ,Piano1   ,E1
+004a ,0031 ,00c3 ,0003 ,0000 ,00c3 ,0003 ,11    ,PIANO3        ,Piano1   ,A1       ,Piano1   ,A1
+0047 ,0031 ,00c0 ,0000 ,0000 ,00c0 ,0000 ,11    ,PIANO3        ,Piano1   ,E2       ,Piano1   ,E2
+004b ,0031 ,00c2 ,0004 ,0000 ,00c2 ,0004 ,11    ,PIANO3        ,Piano1   ,A2       ,Piano1   ,A2
+004c ,0031 ,00c8 ,0005 ,0000 ,00c8 ,0005 ,11    ,PIANO3        ,Piano1   ,E3       ,Piano1   ,E3
+004d ,0031 ,00bd ,0006 ,0000 ,00bd ,0006 ,11    ,PIANO3        ,Piano1   ,A3       ,Piano1   ,A3
+004e ,0031 ,00be ,0194 ,0000 ,00be ,0194 ,11    ,PIANO3        ,Piano1   ,D4       ,Piano1   ,D4
+004f ,0031 ,00bf ,0194 ,0000 ,00bf ,0194 ,11    ,PIANO3        ,Piano1   ,D4       ,Piano1   ,D4
+
+0050 ,0031 ,0011 ,004a ,0000 ,00af ,004a ,12    ,E.PIANO1      ,
+0051 ,0031 ,0011 ,004b ,0000 ,00af ,004b ,12    ,E.PIANO1      ,
+0052 ,0031 ,0011 ,004c ,0000 ,00af ,004c ,12    ,E.PIANO1      ,
+0053 ,0031 ,0011 ,004d ,0000 ,00af ,004d ,12    ,E.PIANO1      ,
+0054 ,0031 ,0011 ,004d ,0000 ,00af ,004d ,12    ,E.PIANO1      ,
+
+0055 ,0031 ,0067 ,004e ,0012 ,0067 ,004e ,13    ,E.PIANO2      ,
+0056 ,0031 ,0067 ,004e ,0012 ,0067 ,004e ,13    ,E.PIANO2      ,
+0057 ,0031 ,0067 ,004f ,0012 ,0067 ,004f ,13    ,E.PIANO2      ,
+0058 ,0031 ,0068 ,0050 ,0012 ,0068 ,0050 ,13    ,E.PIANO2      ,
+0059 ,0031 ,0068 ,0051 ,0012 ,0068 ,0051 ,13    ,E.PIANO2      ,
+
+005a ,0037 ,00ae ,004a ,0012 ,00ae ,004a ,14    ,E.PIANO3      ,
+005b ,0037 ,00ae ,004b ,0012 ,00ae ,004b ,14    ,E.PIANO3      ,
+005c ,0037 ,00ae ,004c ,0012 ,00ae ,004c ,14    ,E.PIANO3      ,
+005d ,0037 ,00ae ,004d ,0012 ,00ae ,004d ,14    ,E.PIANO3      ,
+
+005e ,0031 ,0067 ,0052 ,0000 ,0067 ,0052 ,15    ,E.PIANO4      ,SineW3   ,A0       ,SineW3   ,A0
+005f ,0031 ,0067 ,0053 ,0000 ,0067 ,0053 ,15    ,E.PIANO4      ,SineW3   ,A1       ,SineW3   ,A1
+0060 ,0031 ,0067 ,0054 ,0000 ,0067 ,0054 ,15    ,E.PIANO4      ,SineW3   ,A2       ,SineW3   ,A2
+0061 ,0031 ,0067 ,0055 ,0000 ,0067 ,0055 ,15    ,E.PIANO4      ,SineW3   ,A3       ,SineW3   ,A3
+0062 ,0031 ,0067 ,0056 ,0000 ,0067 ,0056 ,15    ,E.PIANO4      ,SineW3   ,A4       ,SineW3   ,A4
+
+0063 ,0031 ,00c0 ,0000 ,0000 ,00af ,004a ,16    ,E.PIANO5      ,Piano1   ,A0
+0064 ,0031 ,00c1 ,0001 ,0000 ,00af ,004b ,16    ,E.PIANO5      ,Piano1   ,E1
+0065 ,0031 ,00c4 ,0002 ,0000 ,00af ,004b ,16    ,E.PIANO5      ,Piano1   ,A1
+0066 ,0031 ,00c3 ,0003 ,0000 ,00af ,004c ,16    ,E.PIANO5      ,Piano1   ,E2
+0067 ,0031 ,00c2 ,0004 ,0000 ,00af ,004c ,16    ,E.PIANO5      ,Piano1   ,A2
+0068 ,0031 ,00c8 ,0005 ,0000 ,00af ,004d ,16    ,E.PIANO5      ,Piano1   ,E3
+0069 ,0031 ,00bd ,0006 ,0000 ,00af ,004d ,16    ,E.PIANO5      ,Piano1   ,A3
+006a ,0000 ,00be ,0194 ,0000 ,00af ,004d ,16    ,E.PIANO5      ,Piano1   ,D4
+006b ,0031 ,00bf ,0194 ,0000 ,00af ,004d ,16    ,E.PIANO5      ,Piano1   ,D4
+
+006c ,0000 ,00c0 ,0000 ,0000 ,0070 ,0047 ,17    ,STRPIANO      ,Piano1   ,A0       ,Strng1   ,A1
+006d ,0000 ,00c0 ,0001 ,0000 ,0070 ,0047 ,17    ,STRPIANO      ,Piano1   ,E1       ,Strng1   ,A1
+006e ,0000 ,00c4 ,0002 ,0000 ,0070 ,0047 ,17    ,STRPIANO      ,Piano1   ,A1       ,Strng1   ,A1
+006f ,0000 ,00c3 ,0003 ,0019 ,0070 ,0048 ,17    ,STRPIANO      ,Piano1   ,E2       ,Strng1   ,A2
+0070 ,0000 ,00c2 ,0004 ,0019 ,0070 ,0048 ,17    ,STRPIANO      ,Piano1   ,A2       ,Strng1   ,A2
+0071 ,0000 ,00c8 ,0005 ,0019 ,0070 ,0048 ,17    ,STRPIANO      ,Piano1   ,E3       ,Strng1   ,A2
+0072 ,0000 ,00bd ,0006 ,0019 ,0070 ,0049 ,17    ,STRPIANO      ,Piano1   ,A3       ,Strng1   ,A4
+0073 ,0000 ,00be ,0194 ,0019 ,0070 ,0049 ,17    ,STRPIANO      ,Piano1   ,D4       ,Strng1   ,A4
+0074 ,0000 ,00bf ,0194 ,0019 ,0070 ,0049 ,17    ,STRPIANO      ,Piano1   ,D4       ,Strng1   ,A4
+
+0075 ,000f ,009f ,0057 ,0031 ,00ae ,004a ,18    ,FLUTEEP       ,SinM11   ,A1       ,??       ,??
+0076 ,000f ,009f ,0057 ,0031 ,00ae ,004b ,18    ,FLUTEEP       ,SinM11   ,A1       ,??       ,??
+0077 ,000f ,00a1 ,0058 ,0031 ,00ae ,004c ,18    ,FLUTEEP       ,SinM11   ,A3       ,??       ,??
+0078 ,000f ,00a1 ,0059 ,0031 ,00ae ,004d ,18    ,FLUTEEP       ,SinM11   ,A4       ,??       ,??
+
+0079 ,0031 ,00ce ,005a ,0031 ,00ce ,005a ,19    ,BASSEP        ,BassG1   ,A0       ,BassG1   ,A0
+007a ,0000 ,00ce ,005c ,0000 ,00ce ,005c ,19    ,BASSEP        ,BassG1   ,A1       ,BassG1   ,A1
+007b ,0031 ,0011 ,004c ,0000 ,00af ,004c ,19    ,BASSEP
+007c ,0031 ,0011 ,004d ,0000 ,00af ,004d ,19    ,BASSEP
+007d ,0031 ,0011 ,004d ,0000 ,00af ,004d ,19    ,BASSEP
+
+007e ,0031 ,007e ,005e ,0000 ,007f ,0007 ,20    ,HARPISCHORD2  ,Pluck1   ,A0       ,HrpsiH   ,A0
+007f ,0031 ,007e ,0008 ,0000 ,0081 ,0009 ,20    ,HARPISCHORD2  ,HrpsiL   ,A1       ,HrpsiH   ,A1
+0080 ,0031 ,0081 ,000a ,0000 ,0083 ,000b ,20    ,HARPISCHORD2  ,HrpsiL   ,A2       ,HrpsiH   ,A2
+0081 ,0031 ,0083 ,000c ,0000 ,0086 ,000d ,20    ,HARPISCHORD2  ,HrpsiL   ,A3       ,HrpsiH   ,A3
+0082 ,0031 ,0086 ,000e ,0000 ,0088 ,000f ,20    ,HARPISCHORD2  ,HrpsiL   ,A4       ,HrpsiH   ,A4
+
+0083 ,0000 ,0079 ,005e ,0000 ,007f ,0007 ,21    ,HARPSICHORD3  ,Pluck1   ,A0       ,HrpsiH   ,A0
+0084 ,0000 ,0079 ,0008 ,0000 ,0081 ,0009 ,21    ,HARPSICHORD3  ,HrpsiL   ,A1       ,HrpsiH   ,A1
+0085 ,0000 ,0079 ,000a ,0000 ,0083 ,000b ,21    ,HARPSICHORD3  ,HrpsiL   ,A2       ,HrpsiH   ,A2
+0086 ,0000 ,0079 ,000c ,0000 ,0086 ,000d ,21    ,HARPSICHORD3  ,HrpsiL   ,A3       ,HrpsiH   ,A3
+0087 ,0000 ,0079 ,000e ,0000 ,0088 ,000f ,21    ,HARPSICHORD3  ,HrpsiL   ,A4       ,HrpsiH   ,A4
+
+0088 ,0000 ,008a ,0007 ,0000 ,008a ,0007 ,22    ,HARPSICHORD4  ,HrpsiH   ,A0       ,HrpsiH   ,A0
+0089 ,0000 ,008c ,0009 ,0000 ,008c ,0009 ,22    ,HARPSICHORD4  ,HrpsiH   ,A1       ,HrpsiH   ,A1
+008a ,0000 ,008d ,000b ,0000 ,008d ,000b ,22    ,HARPSICHORD4  ,HrpsiH   ,A2       ,HrpsiH   ,A2
+008b ,0000 ,008e ,000d ,0000 ,008e ,000d ,22    ,HARPSICHORD4  ,HrpsiH   ,A3       ,HrpsiH   ,A3
+008c ,0000 ,008f ,000f ,0000 ,008f ,000f ,22    ,HARPSICHORD4  ,HrpsiH   ,A4       ,HrpsiH   ,A4
+
+008d ,0039 ,0012 ,0063 ,0042 ,0002 ,0063 ,23    ,FUNKYCLAVI    ,SinM13   ,A0       ,SinM13   ,A0
+008e ,0041 ,0013 ,005f ,003e ,0003 ,005f ,23    ,FUNKYCLAVI    ,Pluck1   ,A1       ,Pluck1   ,A1
+008f ,003f ,0014 ,0060 ,003c ,0004 ,0060 ,23    ,FUNKYCLAVI    ,Pluck1   ,A2       ,Pluck1   ,A2
+0090 ,0040 ,0015 ,0061 ,003d ,0005 ,0061 ,23    ,FUNKYCLAVI    ,Pluck1   ,A3       ,Pluck1   ,A3
+0091 ,0040 ,0016 ,0062 ,003d ,0006 ,0062 ,23    ,FUNKYCLAVI    ,Pluck1   ,A4       ,Pluck1   ,A4
+
+0092 ,0031 ,0014 ,0067 ,0012 ,00d9 ,0067 ,24    ,SYNTHCLAVI
+0093 ,0031 ,0014 ,0064 ,0012 ,00d9 ,0064 ,24    ,SYNTHCLAVI    ,SquarM1  ,A2       ,SquarM1  ,A2
+0094 ,0031 ,0014 ,0065 ,0012 ,00d9 ,0065 ,24    ,SYNTHCLAVI    ,SquarM1  ,A3       ,SquarM1  ,A3
+0095 ,0031 ,0014 ,0066 ,0012 ,00d9 ,0066 ,24    ,SYNTHCLAVI    ,SquarM1  ,A4       ,SquarM1  ,A4
+
+0096 ,0031 ,00af ,004a ,0000 ,007c ,0007 ,25    ,SYNTHCLAVI2   ,??       ,??       ,HrpsiH   ,A0
+0097 ,0031 ,00af ,004b ,0000 ,007c ,0007 ,25    ,SYNTHCLAVI2   ,??       ,??       ,HrpsiH   ,A0
+0098 ,0031 ,00af ,004c ,0000 ,0084 ,0009 ,25    ,SYNTHCLAVI2   ,??       ,??       ,HrpsiH   ,A1
+0099 ,0031 ,00af ,004d ,0000 ,0087 ,000b ,25    ,SYNTHCLAVI2   ,??       ,??       ,HrpsiH   ,A2
+009a ,0031 ,00af ,004d ,0000 ,0089 ,000d ,25    ,SYNTHCLAVI2   ,??       ,??       ,HrpsiH   ,A3
+
+009b ,0039 ,0012 ,0063 ,0000 ,007e ,005e ,26    ,HARPSI-CLAVI  ,SinM13   ,A0       ,Pluck1   ,A0
+009c ,0041 ,0013 ,005f ,0000 ,007e ,0008 ,26    ,HARPSI-CLAVI  ,Pluck1   ,A1       ,HrpsiL   ,A1
+009d ,003f ,0014 ,0060 ,0000 ,0081 ,000a ,26    ,HARPSI-CLAVI  ,Pluck1   ,A2       ,HrpsiL   ,A2
+009e ,0040 ,0015 ,0061 ,0000 ,0083 ,000c ,26    ,HARPSI-CLAVI  ,Pluck1   ,A3       ,HrpsiL   ,A3
+009f ,0040 ,0016 ,0062 ,0000 ,0086 ,000e ,26    ,HARPSI-CLAVI  ,Pluck1   ,A4       ,HrpsiL   ,A4
+
+00a0 ,0031 ,007d ,005e ,0000 ,00e0 ,0068 ,27    ,HARPSI-GUITAR ,Pluck1   ,A0       ,AGuit1   ,A1
+00a2 ,0031 ,0080 ,000a ,0000 ,00e2 ,006c ,27    ,HARPSI-GUITAR ,HrpsiL   ,A2       ,AGuit1   ,A3
+00a3 ,0031 ,0082 ,000c ,0000 ,00e3 ,006e ,27    ,HARPSI-GUITAR ,HrpsiL   ,A3       ,AGuit1   ,A4
+00a1 ,0031 ,007d ,0008 ,0000 ,00e1 ,006a ,27    ,HARPSI-GUITAR ,HrpsiL   ,A1       ,AGuit1   ,A2
+00a4 ,0031 ,0085 ,000e ,0000 ,00e3 ,006f ,27    ,HARPSI-GUITAR ,HrpsiL   ,A4       ,AGuit2   ,A4
+
+00a5 ,0031 ,007f ,0007 ,0046 ,003a ,0042 ,28    ,CHOIR-HPSCD   ,HrpsiH   ,A0       ,SineM3   ,A0
+00a6 ,0031 ,0081 ,0009 ,0046 ,0049 ,0043 ,28    ,CHOIR-HPSCD   ,HrpsiH   ,A1       ,SineM3   ,A1
+00a7 ,0031 ,0083 ,000b ,0046 ,0049 ,0044 ,28    ,CHOIR-HPSCD   ,HrpsiH   ,A2       ,SineM3   ,A2
+00a8 ,0031 ,0086 ,000d ,0046 ,0049 ,0045 ,28    ,CHOIR-HPSCD   ,HrpsiH   ,A3       ,SineM3   ,A3
+00a9 ,0031 ,0088 ,000f ,0046 ,0049 ,0046 ,28    ,CHOIR-HPSCD   ,HrpsiH   ,A4       ,SineM3   ,A4
+
+00aa ,0000 ,007c ,0007 ,0000 ,0070 ,0047 ,29    ,STRING_HPSCD  ,HrpsiH   ,A0       ,??       ,??
+00ab ,0000 ,0084 ,0009 ,0019 ,0070 ,0048 ,29    ,STRING-HPSCD  ,HrpsiH   ,A1       ,??       ,??
+00ac ,0000 ,0084 ,000b ,0019 ,0070 ,0048 ,29    ,STRING-HPSCD  ,HrpsiH   ,A2       ,??       ,??
+00ad ,0000 ,0084 ,000b ,0019 ,0070 ,0049 ,29    ,STRING-HPSCD  ,HrpsiH   ,A2       ,??       ,??
+00ae ,0000 ,0089 ,000d ,0019 ,0070 ,0049 ,29    ,STRING-HPSCD  ,HrpsiH   ,A3       ,??       ,??
+00af ,0000 ,008b ,000f ,0019 ,0070 ,0049 ,29    ,STRING-HPSCD  ,HrpsiH   ,A4       ,??       ,??
+
+00b0 ,0000 ,00b7 ,0070 ,0000 ,00b7 ,0070 ,30    ,MARIMBA 1     ,??       ,??       ,??       ,??
+00b1 ,0000 ,00c5 ,0071 ,0000 ,00c5 ,0071 ,30    ,MARIMBA 1     ,??       ,??       ,??       ,??
+00b2 ,0000 ,00c6 ,0072 ,0000 ,00c6 ,0072 ,30    ,MARIMBA 1     ,??       ,??       ,??       ,??
+00b3 ,0000 ,00c7 ,0073 ,0000 ,00c7 ,0073 ,30    ,MARIMBA 1     ,??       ,??       ,??       ,??
+
+00b4 ,0031 ,005f ,0010 ,0012 ,005f ,0010 ,31    ,STEELDRUM     ,Sine1    ,A4       ,Sine1    ,A4
+00b5 ,0037 ,005c ,0075 ,0019 ,005c ,0075 ,31    ,STEELDRUM     ,Horn3    ,A1       ,Horn3    ,A1
+00b6 ,0031 ,005f ,0010 ,0012 ,005f ,0010 ,31    ,STEELDRUM     ,Sine1    ,A1       ,Sine1    ,A1
+00b7 ,0037 ,005c ,0075 ,0019 ,005c ,0075 ,31    ,STEELDRUM     ,Horn3    ,A1       ,Horn3    ,A1
+00b8 ,0031 ,005f ,0011 ,0012 ,005f ,0011 ,31    ,STEELDRUM     ,Sine1    ,A2       ,Sine1    ,A2
+00b9 ,0037 ,005c ,0076 ,0019 ,005c ,0076 ,31    ,STEELDRUM     ,Horn3    ,A2       ,Horn3    ,A2
+00ba ,0031 ,005f ,0012 ,0012 ,005f ,0012 ,31    ,STEELDRUM     ,Sine1    ,A3       ,Sine1    ,A3
+00bb ,0037 ,005c ,0077 ,0019 ,005c ,0077 ,31    ,STEELDRUM     ,Horn3    ,A3       ,Horn3    ,A3
+00bc ,0031 ,005f ,0013 ,0012 ,005f ,0013 ,31    ,STEELDRUM     ,Sine1    ,A4       ,Sine1    ,A4
+00bd ,0037 ,005c ,0078 ,0019 ,005c ,0078 ,31    ,STEELDRUM     ,Horn3    ,A4       ,Horn3    ,A4
+
+00be ,0000 ,00a2 ,0079 ,0000 ,00a2 ,0079 ,32    ,MARIMBA2      ,Buzz1    ,A0       ,Buzz1    ,A0
+00bf ,0000 ,00a3 ,007a ,0000 ,00a3 ,007a ,32    ,MARIMBA2      ,Buzz1    ,A1       ,Buzz1    ,A1
+00c0 ,0000 ,00a4 ,007b ,0000 ,00a4 ,007b ,32    ,MARIMBA2      ,Buzz1    ,A2       ,Buzz1    ,A2
+00c1 ,0000 ,00a5 ,007c ,0000 ,00a5 ,007c ,32    ,MARIMBA2      ,Buzz1    ,A3       ,Buzz1    ,A3
+00c2 ,0000 ,00a6 ,007d ,0000 ,00a6 ,007d ,32    ,MARIMBA2      ,Buzz1    ,A4       ,Buzz1    ,A4
+
+00c3 ,0031 ,0024 ,0010 ,0012 ,0045 ,0010 ,33    ,VIBRAPHONE2   ,Sine1    ,A1       ,Sine1    ,A1
+00c4 ,0031 ,0023 ,007e ,0012 ,002d ,007e ,33    ,VIBRAPHONE2   ,Horn4    ,A1       ,Horn4    ,A1
+00c5 ,0031 ,0024 ,0010 ,0012 ,0045 ,0010 ,33    ,VIBRAPHONE2   ,Sine1    ,A1       ,Sine1    ,A1
+00c6 ,0031 ,0023 ,007e ,0012 ,002d ,007e ,33    ,VIBRAPHONE2   ,Horn4    ,A1       ,Horn4    ,A1
+00c7 ,0031 ,0024 ,0011 ,0012 ,0045 ,0011 ,33    ,VIBRAPHONE2   ,Sine1    ,A2       ,Sine1    ,A2
+00c8 ,0031 ,0023 ,007f ,0012 ,002d ,007f ,33    ,VIBRAPHONE2   ,Horn4    ,A2       ,Horn4    ,A2
+00c9 ,0031 ,0024 ,0012 ,0012 ,0045 ,0012 ,33    ,VIBRAPHONE2   ,Sine1    ,A3       ,Sine1    ,A3
+00ca ,0031 ,0023 ,0080 ,0012 ,002d ,0080 ,33    ,VIBRAPHONE2   ,Horn4    ,A3       ,Horn4    ,A3
+00cb ,0031 ,0024 ,0013 ,0012 ,0045 ,0013 ,33    ,VIBRAPHONE2   ,Sine1    ,A4       ,Sine1    ,A4
+00cc ,0031 ,0023 ,0081 ,0012 ,002d ,0081 ,33    ,VIBRAPHONE2   ,Horn4    ,A4       ,Horn4    ,A4
+
+00cd ,0000 ,0039 ,0082 ,0000 ,0039 ,0082 ,34    ,MUSICBOX      ,TriM     ,A0       ,TriM     ,A0
+00ce ,0000 ,0039 ,0083 ,0000 ,0039 ,0083 ,34    ,MUSICBOX      ,TriM     ,A1       ,TriM     ,A1
+00cf ,0000 ,0039 ,0084 ,0000 ,0039 ,0084 ,34    ,MUSICBOX      ,TriM     ,A2       ,TriM     ,A2
+00d0 ,0000 ,0039 ,0085 ,0000 ,0039 ,0085 ,34    ,MUSICBOX      ,TriM     ,A3       ,TriM     ,A3
+00d1 ,0000 ,0039 ,0086 ,0000 ,0039 ,0086 ,34    ,MUSICBOX      ,TriM     ,A4       ,TriM     ,A4
+
+00d2 ,0000 ,00b0 ,0087 ,0000 ,00b0 ,0087 ,35    ,XYLOPHONE     ,SineM4   ,A0       ,SineM4   ,A0
+00d3 ,0000 ,00b1 ,0088 ,0000 ,00b1 ,0088 ,35    ,XYLOPHONE     ,SineM4   ,A1       ,SineM4   ,A1
+00d4 ,0000 ,00b2 ,0089 ,0000 ,00b2 ,0089 ,35    ,XYLOPHONE     ,SineM4   ,A2       ,SineM4   ,A2
+00d5 ,0000 ,00b2 ,008a ,0000 ,00b2 ,008a ,35    ,XYLOPHONE     ,SineM4   ,A3       ,SineM4   ,A3
+00d6 ,0000 ,00b2 ,008b ,0000 ,00b2 ,008b ,35    ,XYLOPHONE     ,SineM4   ,A4       ,SineM4   ,A4
+
+00d7 ,0037 ,0029 ,008c ,0019 ,0046 ,008c ,36    ,BELLS1        ,Bell2    ,A1       ,Bell2    ,A1
+00d8 ,0037 ,0029 ,008d ,0019 ,0046 ,008d ,36    ,BELLS1        ,Bell2    ,A2       ,Bell2    ,A2
+00d9 ,0037 ,0029 ,008e ,0019 ,0046 ,008e ,36    ,BELLS1        ,Bell2    ,A4       ,Bell2    ,A4
+
+00da ,0031 ,0007 ,008f ,0000 ,002e ,008f ,37    ,TREECHIME     ,SinM12   ,A0       ,SinM12   ,A0
+00db ,0031 ,0007 ,0090 ,0000 ,002e ,0090 ,37    ,TREECHIME     ,SinM12   ,A1       ,SinM12   ,A1
+00dc ,0031 ,0007 ,0091 ,0000 ,002e ,0091 ,37    ,TREECHIME     ,SinM12   ,A2       ,SinM12   ,A2
+00dd ,0031 ,0007 ,0092 ,0000 ,002e ,0092 ,37    ,TREECHIME     ,SinM12   ,A3       ,SinM12   ,A3
+00de ,0031 ,0007 ,0093 ,0000 ,002e ,0093 ,37    ,TREECHIME     ,SinM12   ,A4       ,SinM12   ,A4
+
+00df ,003b ,0025 ,0094 ,0000 ,0042 ,0094 ,38    ,BELLS2        ,Bell4    ,A1       ,Bell4    ,A1
+00e0 ,003b ,0025 ,0094 ,0000 ,0042 ,0094 ,38    ,BELLS2        ,Bell4    ,A1       ,Bell4    ,A1
+00e1 ,003b ,0025 ,0095 ,0000 ,0042 ,0095 ,38    ,BELLS2        ,Bell4    ,A2       ,Bell4    ,A2
+00e2 ,003b ,0025 ,0096 ,0000 ,0042 ,0096 ,38    ,BELLS2        ,Bell4    ,A3       ,Bell4    ,A3
+00e3 ,003b ,0025 ,0097 ,0000 ,0042 ,0097 ,38    ,BELLS2        ,Bell4    ,A4       ,Bell4    ,A4
+
+00e4 ,0000 ,00db ,0098 ,0000 ,00db ,0098 ,39    ,PERCUSSION    ,KickDr   ,C0       ,KickDr   ,C0
+00e5 ,0000 ,00d8 ,0099 ,0000 ,00d8 ,0099 ,39    ,PERCUSSION    ,Snare1   ,A#0      ,Snare1   ,A#0
+00e6 ,0000 ,00db ,009a ,0000 ,00db ,009a ,39    ,PERCUSSION    ,Snare2   ,G#0      ,Snare2   ,G#0
+00e7 ,0000 ,0030 ,009b ,0000 ,0090 ,009b ,39    ,PERCUSSION    ,HHClsd   ,A#0      ,HHClsd   ,A#0
+00e8 ,0000 ,0031 ,009c ,0000 ,0092 ,009c ,39    ,PERCUSSION    ,HHOpen   ,D1       ,HHOpen   ,D1
+00e9 ,0000 ,003c ,009e ,0000 ,00ab ,009e ,39    ,PERCUSSION    ,Crash1   ,??       ,Crash1   ,??
+00ea ,0000 ,00ac ,00a2 ,0000 ,003d ,00a2 ,39    ,PERCUSSION    ,Cymbl1   ,??       ,Cymbl1   ,??
+00eb ,0000 ,002a ,00a3 ,0000 ,00db ,00a3 ,39    ,PERCUSSION    ,Tom1     ,??       ,Tom1     ,??
+00ec ,0000 ,0056 ,00a4 ,0000 ,00ac ,00a4 ,39    ,PERCUSSION    ,Tom1     ,??       ,Tom1     ,??
+00ed ,0000 ,00ac ,00a5 ,0000 ,00db ,00a5 ,39    ,PERCUSSION    ,Tom1     ,??       ,Tom1     ,??
+00ee ,0000 ,00db ,00a6 ,0000 ,002a ,00a6 ,39    ,PERCUSSION    ,Tom1     ,??       ,Tom1     ,??
+00ef ,0000 ,007b ,00a7 ,0000 ,007b ,00a7 ,39    ,PERCUSSION    ,Cowbll   ,??       ,Cowbll   ,??
+00f0 ,0000 ,002a ,00aa ,0000 ,00da ,00aa ,39    ,PERCUSSION    ,Bongo1   ,??       ,Bongo1   ,??
+00f1 ,0000 ,00db ,00af ,0000 ,003d ,00af ,39    ,PERCUSSION    ,Shaker   ,??       ,Shaker   ,??
+00f2 ,0000 ,002f ,0074 ,0000 ,0077 ,0074 ,39    ,PERCUSSION    ,Xylo1    ,B4       ,Xylo1    ,B4
+00f3 ,0000 ,00db ,00b1 ,0000 ,00db ,00b1 ,39    ,PERCUSSION    ,Snare3   ,??       ,Snare3   ,??
+
+00f4 ,0031 ,00d0 ,0068 ,0000 ,00d0 ,0068 ,40    ,ACOUSGUITAR   ,AGuit1   ,A1       ,AGuit1   ,A1
+00f5 ,0031 ,00d2 ,006a ,0000 ,00d2 ,006a ,40    ,ACOUSGUITAR   ,AGuit1   ,A2       ,AGuit1   ,A2
+00f6 ,0031 ,00d4 ,006c ,0000 ,00d4 ,006c ,40    ,ACOUSGUITAR   ,AGuit1   ,A3       ,AGuit1   ,A3
+00f7 ,0031 ,00d4 ,006e ,0000 ,00d4 ,006e ,40    ,ACOUSGUITAR   ,AGuit1   ,A4       ,AGuit1   ,A4
+
+00f8 ,0031 ,001d ,00b2 ,0000 ,00cf ,00b2 ,41    ,JAZZGUITAR    ,Organ5   ,A1       ,Organ5   ,A1
+00f9 ,0031 ,0021 ,00b3 ,0000 ,00d6 ,00b3 ,41    ,JAZZGUITAR    ,Organ5   ,A2       ,Organ5   ,A2
+00fa ,0031 ,0022 ,00b4 ,0000 ,00d7 ,00b4 ,41    ,JAZZGUITAR    ,Organ5   ,A3       ,Organ5   ,A3
+00fb ,0031 ,0022 ,00b5 ,0000 ,00d7 ,00b5 ,41    ,JAZZGUITAR    ,Organ5   ,A4       ,Organ5   ,A4
+
+00fc ,0000 ,0027 ,0018 ,0000 ,00cc ,0018 ,42    ,MUTEGUITAR    ,DistG1   ,A1       ,DistG1   ,A1
+00fd ,0000 ,0027 ,001b ,0000 ,00cc ,001b ,42    ,MUTEGUITAR    ,DistG3   ,A3       ,DistG3   ,A3
+00fe ,0000 ,0028 ,001e ,0000 ,00cd ,001e ,42    ,MUTEGUITAR    ,DistG3   ,A2       ,DistG3   ,A2
+00ff ,0000 ,0028 ,001e ,0000 ,00cd ,001e ,42    ,MUTEGUITAR    ,DistG3   ,A2       ,DistG3   ,A2
+
+0100 ,0037 ,001e ,0068 ,0012 ,00d1 ,0069 ,43    ,12DTRGUITAR   ,AGuit1   ,A1       ,AGuit2   ,A1
+0101 ,0037 ,001f ,006a ,0012 ,00d3 ,006b ,43    ,12DTRGUITAR   ,AGuit1   ,A2       ,AGuit2   ,A2
+0102 ,0037 ,0020 ,006c ,0012 ,00d5 ,006d ,43    ,12DTRGUITAR   ,AGuit1   ,A3       ,AGuit2   ,A3
+0103 ,0037 ,0020 ,006e ,0012 ,00d5 ,006f ,43    ,12DTRGUITAR   ,AGuit1   ,A4       ,AGuit2   ,A4
+
+0104 ,0000 ,004b ,00b6 ,0000 ,004b ,00b6 ,44    ,HARP          ,Horn5    ,A0       ,Horn5    ,A0
+0105 ,0037 ,0097 ,00bb ,0031 ,0097 ,00bb ,44    ,HARP          ,SineW6   ,A0       ,SineW6   ,A0
+0106 ,0000 ,004c ,00b7 ,0000 ,004c ,00b7 ,44    ,HARP          ,Horn5    ,A1       ,Horn5    ,A1
+0107 ,0037 ,0098 ,00bd ,0031 ,0098 ,00bd ,44    ,HARP          ,SineW6   ,A1       ,SineW6   ,A1
+0108 ,0000 ,004d ,00b8 ,0000 ,004d ,00b8 ,44    ,HARP          ,Horn5    ,A2       ,Horn5    ,A2
+0109 ,0037 ,009a ,00bf ,0031 ,009a ,00bf ,44    ,HARP          ,SineW6   ,A2       ,SineW6   ,A2
+010a ,0000 ,004e ,00b9 ,0000 ,004e ,00b9 ,44    ,HARP          ,Horn5    ,A3       ,Horn5    ,A3
+010b ,0037 ,009b ,00c1 ,0031 ,009b ,00c1 ,44    ,HARP          ,SineW6   ,A3       ,SineW6   ,A3
+010c ,0000 ,0050 ,00ba ,0000 ,0050 ,00ba ,44    ,HARP          ,Horn5    ,A4       ,Horn5    ,A4
+010d ,0037 ,009c ,00c3 ,0031 ,009c ,00c3 ,44    ,HARP          ,SineW6   ,A4       ,SineW6   ,A4
+
+010e ,0000 ,00bb ,0018 ,0000 ,00bb ,0018 ,45    ,FEEDBACK      ,DistG1   ,A1       ,DistG1   ,A1
+010f ,0000 ,0033 ,00bc ,0000 ,0033 ,00bc ,45    ,FEEDBACK      ,SineW6   ,??       ,SineW6   ,??
+0110 ,0001 ,00bb ,001a ,0001 ,00bc ,001a ,45    ,FEEDBACK      ,DistG1   ,A2       ,DistG1   ,A2
+0111 ,0000 ,0033 ,00be ,0000 ,0033 ,00be ,45    ,FEEDBACK      ,SineW6   ,??       ,SineW6   ,??
+0112 ,0000 ,00ba ,001d ,0000 ,00ba ,001d ,45    ,FEEDBACK      ,DistG1   ,A3       ,DistG1   ,A3
+0113 ,0000 ,0033 ,00c0 ,0000 ,0033 ,00c0 ,45    ,FEEDBACK      ,SineW6   ,??       ,SineW6   ,??
+0114 ,0000 ,00b9 ,001d ,0000 ,00b9 ,001d ,45    ,FEEDBACK      ,DistG1   ,A3       ,DistG1   ,A3
+0115 ,0000 ,0033 ,00c2 ,0000 ,0033 ,00c2 ,45    ,FEEDBACK      ,SineW6   ,??       ,SineW6   ,??
+
+0116 ,0031 ,0001 ,00b6 ,0000 ,0001 ,00b6 ,46    ,KOTO          ,Horn5    ,A0       ,Horn5    ,A0
+0117 ,0031 ,0001 ,00b7 ,0000 ,0001 ,00b7 ,46    ,KOTO          ,Horn5    ,A1       ,Horn5    ,A1
+0118 ,0031 ,0001 ,00b8 ,0000 ,0001 ,00b8 ,46    ,KOTO          ,Horn5    ,A2       ,Horn5    ,A2
+0119 ,0031 ,0001 ,00b9 ,0000 ,0001 ,00b9 ,46    ,KOTO          ,Horn5    ,A3       ,Horn5    ,A3
+011a ,0031 ,0001 ,00ba ,0000 ,0001 ,00ba ,46    ,KOTO          ,Horn5    ,A4       ,Horn5    ,A4
+
+011b ,0000 ,00a7 ,00c4 ,0000 ,00a7 ,00c4 ,47    ,BANJO         ,SineM5   ,A0       ,SineM5   ,A0
+011c ,0000 ,00a7 ,00c5 ,0000 ,00a7 ,00c5 ,47    ,BANJO         ,SineM5   ,A1       ,SineM5   ,A1
+011d ,0000 ,00a8 ,00c6 ,0000 ,00a8 ,00c6 ,47    ,BANJO         ,SineM5   ,A2       ,SineM5   ,A2
+011e ,0000 ,00a9 ,00c7 ,0000 ,00a9 ,00c7 ,47    ,BANJO         ,SineM5   ,A3       ,SineM5   ,A3
+011f ,0000 ,00a9 ,00c8 ,0000 ,00a9 ,00c8 ,47    ,BANJO         ,SineM4   ,A4       ,SineM5   ,A4
+
+0120 ,0000 ,00d0 ,0068 ,0000 ,0070 ,0047 ,48    ,STRINGGUITAR  ,AGuit1   ,A1       ,Strng1   ,A1
+0121 ,0000 ,00d2 ,006a ,0019 ,0070 ,0048 ,48    ,STRINGGUITAR  ,AGuit1   ,A2       ,Strng1   ,A2
+0122 ,0000 ,00d4 ,006c ,0019 ,0070 ,0048 ,48    ,STRINGGUITAR  ,AGuit1   ,A3       ,Strng1   ,A2
+0123 ,0000 ,00d4 ,006c ,0019 ,0070 ,0049 ,48    ,STRINGGUITAR  ,AGuit1   ,A3       ,Strng1   ,A4
+0124 ,0000 ,00d4 ,006e ,0019 ,0070 ,0049 ,48    ,STRINGGUITAR  ,AGuit1   ,A4       ,Strng1   ,A4
+
+0125 ,0031 ,0000 ,0019 ,0012 ,0000 ,0019 ,49    ,DISTGUITAR2   ,DistG2   ,A1       ,DistG2   ,A1
+0126 ,0031 ,0000 ,001c ,0012 ,0000 ,001c ,49    ,DISTGUITAR2   ,DistG2   ,A2       ,DistG2   ,A2
+0127 ,0031 ,0000 ,001f ,0012 ,0000 ,001f ,49    ,DISTGUITAR2   ,DistG2   ,A3       ,DistG2   ,A3
+0128 ,0031 ,0000 ,001f ,0012 ,0000 ,001f ,49    ,DISTGUITAR2   ,DistG2   ,A3       ,DistG2   ,A3
+
+0129 ,0000 ,0072 ,00c9 ,0000 ,0072 ,00c9 ,50    ,CLARINET
+012a ,0000 ,0072 ,00ca ,0000 ,0072 ,00ca ,50    ,CLARINET
+012b ,0000 ,0072 ,00cb ,0000 ,0072 ,00cb ,50    ,CLARINET
+012c ,0000 ,0072 ,00cc ,0000 ,0072 ,00cc ,50    ,CLARINET
+
+012d ,0010 ,004a ,00cd ,0010 ,004a ,00cd ,51    ,OBOE
+012e ,0010 ,004a ,00ce ,0010 ,004a ,00ce ,51    ,OBOE
+012f ,0010 ,004a ,00cf ,0010 ,004a ,00cf ,51    ,OBOE
+
+0130 ,0011 ,00df ,00d0 ,0011 ,00df ,00d0 ,52    ,TRUMPET
+0131 ,0011 ,00df ,00d1 ,0011 ,00df ,00d1 ,52    ,TRUMPET
+0132 ,0011 ,00df ,00d2 ,0011 ,00df ,00d2 ,52    ,TRUMPET
+0133 ,0011 ,00df ,00d3 ,0011 ,00df ,00d3 ,52    ,TRUMPET
+
+0134 ,0036 ,002b ,00d4 ,000e ,002b ,00d4 ,53    ,VIOLIN
+0135 ,0036 ,002b ,00d5 ,000e ,002b ,00d5 ,53    ,VIOLIN
+0136 ,0036 ,002b ,00d6 ,000e ,002b ,00d6 ,53    ,VIOLIN
+0137 ,0036 ,002b ,00d7 ,000e ,002b ,00d7 ,53    ,VIOLIN
+0138 ,0036 ,002b ,00d8 ,000e ,002b ,00d8 ,53    ,VIOLIN
+
+0139 ,000e ,003b ,00d9 ,000e ,003b ,00d9 ,54    ,CELLO
+013a ,000e ,003b ,00da ,000e ,003b ,00da ,54    ,CELLO
+013b ,000e ,003b ,00db ,000e ,003b ,00db ,54    ,CELLO
+013c ,000e ,003b ,00dc ,000e ,003b ,00dc ,54    ,CELLO
+013d ,000e ,003b ,00dd ,000e ,003b ,00dd ,54    ,CELLO
+
+013e ,000f ,009f ,0057 ,0010 ,004a ,00cd ,55    ,CLARILEAD
+013f ,000f ,009f ,0057 ,0010 ,004a ,00cd ,55    ,CLARILEAD
+0140 ,000f ,00a1 ,0058 ,0010 ,004a ,00ce ,55    ,CLARILEAD
+0141 ,000f ,00a1 ,0058 ,0010 ,004a ,00ce ,55    ,CLARILEAD
+0142 ,0000 ,00a1 ,0059 ,0010 ,004a ,00cf ,55    ,CLARILEAD
+
+0143 ,0009 ,006d ,00de ,0009 ,006d ,00de ,56    ,HARMONICA
+0144 ,0009 ,006d ,00df ,0009 ,006d ,00df ,56    ,HARMONICA
+0145 ,0009 ,006d ,00e0 ,0009 ,006d ,00e0 ,56    ,HARMONICA
+0146 ,0009 ,006d ,00e1 ,0009 ,006d ,00e1 ,56    ,HARMONICA
+0147 ,0009 ,006d ,00e2 ,0009 ,006d ,00e2 ,56    ,HARMONICA
+
+0148 ,0025 ,00ad ,0039 ,0025 ,00ad ,0039 ,57    ,TROMBONE      ,SawW1    ,A1       ,SawW1    ,A1
+0149 ,0022 ,00ad ,0038 ,0022 ,00ad ,0038 ,57    ,TROMBONE      ,SawW1    ,A1       ,SawW1    ,A1
+014a ,0021 ,00ad ,003a ,0021 ,00ad ,003a ,57    ,TROMBONE      ,SawW1    ,A2       ,SawW1    ,A2
+014b ,0047 ,00ad ,003b ,0047 ,00ad ,003b ,57    ,TROMBONE      ,SawW1    ,A3       ,SawW1    ,A3
+014c ,0048 ,00ad ,003c ,0048 ,00ad ,003c ,57    ,TROMBONE      ,SawW1    ,A4       ,SawW1    ,A4
+
+014d ,0038 ,0099 ,00e3 ,001a ,0099 ,00e3 ,58    ,BAGPIPE
+014e ,0038 ,0099 ,00e3 ,001a ,0099 ,00e3 ,58    ,BAGPIPE
+014f ,0038 ,0099 ,00e4 ,001a ,0099 ,00e4 ,58    ,BAGPIPE
+0150 ,0037 ,0099 ,00e5 ,0019 ,0099 ,00e5 ,58    ,BAGPIPE
+0151 ,0037 ,0099 ,00e6 ,0019 ,0099 ,00e6 ,58    ,BAGPIPE
+
+0152 ,0000 ,005b ,00e7 ,0000 ,005b ,00e7 ,59    ,CORNET
+0153 ,0000 ,005e ,00e9 ,0000 ,005e ,00e9 ,59    ,CORNET
+0154 ,0000 ,0061 ,00eb ,0000 ,0061 ,00eb ,59    ,CORNET
+0155 ,0000 ,0061 ,00ed ,0000 ,0061 ,00ed ,59    ,CORNET
+0156 ,0000 ,0061 ,00ef ,0000 ,0061 ,00ef ,59    ,CORNET
+
+0157 ,000a ,00a0 ,00f0 ,000a ,00a0 ,00f0 ,60    ,SYNTHREED2    ,240dec   ,
+0158 ,000a ,00a0 ,00f1 ,000a ,00a0 ,00f1 ,60    ,SYNTHREED2
+0159 ,000a ,00a0 ,00f2 ,000a ,00a0 ,00f2 ,60    ,SYNTHREED2
+015a ,000a ,00a0 ,00f3 ,000a ,00a0 ,00f3 ,60    ,SYNTHREED2
+015b ,000a ,00a0 ,00f4 ,000a ,00a0 ,00f4 ,60    ,SYNTHREED2
+
+015c ,0035 ,0058 ,00f5 ,0050 ,0058 ,00f5 ,61    ,POPLEAD
+015d ,0035 ,0058 ,00f6 ,0051 ,0058 ,00f6 ,61    ,POPLEAD
+015e ,0035 ,0058 ,00f7 ,0051 ,0058 ,00f7 ,61    ,POPLEAD
+015f ,0035 ,0058 ,00f8 ,0051 ,0058 ,00f8 ,61    ,POPLEAD
+0160 ,0035 ,0058 ,00f9 ,0051 ,0058 ,00f9 ,61    ,POPLEAD
+
+0161 ,000b ,002c ,00fa ,0023 ,0071 ,00fa ,62    ,SYNTHLEAD1
+0162 ,000b ,002c ,00fb ,0024 ,0071 ,00fb ,62    ,SYNTHLEAD1
+0163 ,000b ,002c ,00fc ,004b ,0071 ,00fc ,62    ,SYNTHLEAD1
+0164 ,000b ,002c ,00fd ,004b ,0071 ,00fd ,62    ,SYNTHLEAD1
+0165 ,000b ,002c ,00fe ,004b ,0071 ,00fe ,62    ,SYNTHLEAD1
+
+0166 ,000a ,0060 ,00ff ,000a ,0060 ,00ff ,63    ,SYNTHLEAD2    ,255Sq
+0167 ,000a ,0060 ,0100 ,000a ,0060 ,0100 ,63    ,SYNTHLEAD2
+0168 ,000a ,0060 ,0101 ,000a ,0060 ,0101 ,63    ,SYNTHLEAD2
+0169 ,000a ,0060 ,0102 ,000a ,0060 ,0102 ,63    ,SYNTHLEAD2
+016a ,000a ,0060 ,0103 ,000a ,0060 ,0103 ,63    ,SYNTHLEAD2
+
+016b ,0031 ,0075 ,0104 ,0000 ,0075 ,0104 ,64    ,POWERLEAD     ,SawM9    ,A1       ,SawM9    ,A1
+016c ,0000 ,0069 ,0108 ,0000 ,0069 ,0108 ,64    ,POWERLEAD     ,SawM7    ,A0       ,SawM7    ,A0
+016d ,0031 ,0075 ,0104 ,0000 ,0075 ,0104 ,64    ,POWERLEAD     ,SawM9    ,A1       ,SawM9    ,A1
+016e ,0000 ,0069 ,0109 ,0000 ,0069 ,0109 ,64    ,POWERLEAD     ,SawM7    ,A1       ,SawM7    ,A1
+016f ,0031 ,0075 ,0105 ,0000 ,0075 ,0105 ,64    ,POWERLEAD     ,SawM9    ,A2       ,SawM9    ,A2
+0170 ,0000 ,0069 ,010a ,0000 ,0069 ,010a ,64    ,POWERLEAD     ,SawM7    ,A2       ,SawM7    ,A2
+0171 ,0031 ,0075 ,0106 ,0000 ,0075 ,0106 ,64    ,POWERLEAD     ,SawM9    ,A3       ,SawM9    ,A3
+0172 ,0000 ,0069 ,010b ,0000 ,0069 ,010b ,64    ,POWERLEAD     ,SawM7    ,A3       ,SawM7    ,A3
+0173 ,0031 ,0075 ,0107 ,0000 ,0075 ,0107 ,64    ,POWERLEAD     ,SawM9    ,A4       ,SawM9    ,A4
+0174 ,0000 ,0069 ,010c ,0000 ,0069 ,010c ,64    ,POWERLEAD     ,SawM7    ,A4       ,SawM7    ,A4
+
+0175 ,000f ,009f ,0057 ,000f ,009f ,0057 ,65    ,FLUTE         ,SinM111  ,A1       ,SinM11   ,A1
+0176 ,000f ,00a1 ,0058 ,000f ,00a1 ,0058 ,65    ,FLUTE         ,SinM111  ,A3       ,SinM11   ,A3
+0177 ,000f ,00a1 ,0059 ,000f ,00a1 ,0059 ,65    ,FLUTE         ,SinM111  ,A4       ,SinM11   ,A4
+
+0178 ,004f ,006c ,010d ,004f ,006c ,010d ,66    ,WHISTLE       ,SineW9   ,A0       ,SineW9   ,A0
+0179 ,004f ,006c ,010e ,004f ,006c ,010e ,66    ,WHISTLE       ,SineW9   ,A1       ,SineW9   ,A1
+017a ,004f ,006c ,010f ,004f ,006c ,010f ,66    ,WHISTLE       ,SineW9   ,A2       ,SineW9   ,A2
+017b ,004f ,006c ,0110 ,004f ,006c ,0110 ,66    ,WHISTLE       ,SineW9   ,A3       ,SineW9   ,A3
+017c ,004f ,006c ,0111 ,004f ,006c ,0111 ,66    ,WHISTLE       ,SineW9   ,A4       ,SineW9   ,A4
+
+017d ,0000 ,005a ,0112 ,0000 ,005a ,0112 ,67    ,RECORDER      ,SineM6   ,A0       ,SineM6   ,A0
+017e ,0000 ,0059 ,0117 ,0000 ,0059 ,0117 ,67    ,RECORDER      ,SinW10   ,A0       ,SinW10   ,A0
+017f ,0000 ,005a ,0113 ,0000 ,005a ,0113 ,67    ,RECORDER      ,SineM6   ,A1       ,SineM6   ,A1
+0180 ,0000 ,0059 ,0118 ,0000 ,0059 ,0118 ,67    ,RECORDER      ,SinW10   ,A1       ,SinW10   ,A1
+0181 ,0000 ,005a ,0114 ,0000 ,005a ,0114 ,67    ,RECORDER      ,SineM6   ,A2       ,SineM6   ,A2
+0182 ,0000 ,0059 ,0119 ,0000 ,0059 ,0119 ,67    ,RECORDER      ,SinW10   ,A2       ,SinW10   ,A2
+0183 ,0000 ,005a ,0115 ,0000 ,005a ,0115 ,67    ,RECORDER      ,SineM6   ,A3       ,SineM6   ,A3
+0184 ,0000 ,0059 ,011a ,0000 ,0059 ,011a ,67    ,RECORDER      ,SinW10   ,A3       ,SinW10   ,A3
+0185 ,0000 ,005a ,0116 ,0000 ,005a ,0116 ,67    ,RECORDER      ,SineM6   ,A4       ,SineM6   ,A4
+0186 ,0000 ,0059 ,011b ,0000 ,0059 ,011b ,67    ,RECORDER      ,SinW10   ,A4       ,SinW10   ,A4
+
+0187 ,0002 ,003f ,011c ,0002 ,003f ,011c ,68    ,OCARINA       ,SineW8   ,A0       ,SineW8   ,A0
+0188 ,0002 ,003f ,011d ,0002 ,003f ,011d ,68    ,OCARINA       ,SineW8   ,A1       ,SineW8   ,A1
+0189 ,0002 ,003f ,011e ,0002 ,003f ,011e ,68    ,OCARINA       ,SineW8   ,A2       ,SineW8   ,A2
+018a ,0002 ,003f ,011f ,0002 ,003f ,011f ,68    ,OCARINA       ,SineW8   ,A3       ,SineW8   ,A3
+018b ,0002 ,003f ,0120 ,0002 ,003f ,0120 ,68    ,OCARINA       ,SineW8   ,A4       ,SineW8   ,A4
+
+018c ,003b ,009e ,0121 ,0019 ,009e ,0121 ,69    ,ACCORDION     ,SineM7   ,A0       ,SineM7   ,A0
+018d ,003b ,009e ,0122 ,0019 ,009e ,0122 ,69    ,ACCORDION     ,SineM6   ,A1       ,SineM6   ,A1
+018e ,003b ,009e ,0123 ,0019 ,009e ,0123 ,69    ,ACCORDION     ,SineM6   ,A2       ,SineM6   ,A2
+018f ,003b ,009e ,0124 ,0019 ,009e ,0124 ,69    ,ACCORDION     ,SineM6   ,A3       ,SineM6   ,A3
+0190 ,003b ,009e ,0125 ,0019 ,009e ,0125 ,69    ,ACCORDION     ,SineM6   ,A4       ,SineM6   ,A4
+
+0191 ,003b ,0066 ,0126 ,0019 ,0066 ,0126 ,70    ,JAZZORGAN2    ,Organ2   ,A0       ,Organ2   ,A0 
+0192 ,003b ,0066 ,0127 ,0019 ,0066 ,0127 ,70    ,JAZZORGAN2    ,Organ2   ,A2       ,Organ2   ,A2
+0193 ,003b ,0066 ,0128 ,0019 ,0066 ,0128 ,70    ,JAZZORGAN2    ,Organ2   ,A3       ,Organ2   ,A3
+
+0194 ,0031 ,0064 ,012b ,0012 ,0064 ,012a ,71    ,JAZZORGAN3    ,SinM15   ,A1       ,SinM15   ,A1
+0195 ,0031 ,0064 ,0129 ,0012 ,0064 ,0129 ,71    ,JAZZORGAN3    ,SinM15   ,A1       ,SinM15   ,A1
+0196 ,0031 ,0064 ,012c ,0012 ,0064 ,012c ,71    ,JAZZORGAN3    ,Organ4   ,??       ,Organ4   ,??
+0197 ,0031 ,0064 ,012d ,0012 ,0064 ,012d ,71    ,JAZZORGAN3    ,Organ4   ,??       ,Organ4   ,??
+0198 ,0031 ,0064 ,012e ,0012 ,0064 ,012e ,71    ,JAZZORGAN3    ,Organ4   ,??       ,Organ4   ,??
+
+0199 ,0031 ,0041 ,012f ,0012 ,0041 ,012f ,72    ,ELECORGAN     ,SineM8   ,A0       ,SineM8   ,A0
+019a ,0031 ,0041 ,0130 ,0012 ,0041 ,0130 ,72    ,ELECORGAN     ,SineM8   ,A1       ,SineM8   ,A1
+019b ,0031 ,0041 ,0131 ,0012 ,0041 ,0131 ,72    ,ELECORGAN     ,SineM8   ,A2       ,SineM8   ,A2
+019c ,0031 ,0041 ,0132 ,0012 ,0041 ,0132 ,72    ,ELECORGAN     ,SineM8   ,A3       ,SineM8   ,A3
+019d ,0031 ,0041 ,0133 ,0012 ,0041 ,0133 ,72    ,ELECORGAN     ,SineM8   ,A4       ,SineM8   ,A4
+
+019e ,0031 ,0035 ,0135 ,0012 ,0035 ,0134 ,73    ,REEDORGAN     ,SawM3    ,A0       ,SawM11   ,??
+019f ,0031 ,0035 ,0137 ,0012 ,0035 ,0136 ,73    ,REEDORGAN     ,SawM3    ,A2       ,SawM3    ,A1
+01a0 ,0031 ,0035 ,0139 ,0012 ,0035 ,0138 ,73    ,REEDORGAN     ,SawM3    ,A4       ,SawM3    ,A3
+
+01a1 ,0034 ,0051 ,013a ,0015 ,0051 ,013a ,74    ,JUNKORGAN     ,SawM4    ,A0       ,SawM4    ,A0
+01a2 ,0034 ,0051 ,013b ,0015 ,0051 ,013b ,74    ,JUNKORGAN     ,SawM4    ,A1       ,SawM4    ,A1
+01a3 ,0034 ,0051 ,013c ,0015 ,0051 ,013c ,74    ,JUNKORGAN     ,SawM4    ,A2       ,SawM4    ,A2
+01a4 ,0034 ,0051 ,013d ,0015 ,0051 ,013d ,74    ,JUNKORGAN     ,SawM4    ,A3       ,SawM4    ,A3
+01a5 ,0034 ,0051 ,013e ,0015 ,0051 ,013e ,74    ,JUNKORGAN     ,SawM4    ,A4       ,SawM4    ,A4
+
+01a6 ,0000 ,0034 ,013f ,0000 ,0034 ,013f ,75    ,STREETORGAN   ,SineM9   ,A1       ,SineM9   ,A1
+01a7 ,0000 ,0034 ,013f ,0000 ,0034 ,013f ,75    ,STREETORGAN   ,SineM9   ,A1       ,SineM9   ,A1
+01a8 ,0000 ,0034 ,0140 ,0000 ,0034 ,0140 ,75    ,STREETORGAN   ,SineM9   ,A2       ,SineM9   ,A2
+01a9 ,0000 ,0034 ,0141 ,0000 ,0034 ,0141 ,75    ,STREETORGAN   ,SineM9   ,A3       ,SineM9   ,A3
+01aa ,0000 ,0034 ,0142 ,0000 ,0034 ,0142 ,75    ,STREETORGAN   ,SineM9   ,A4       ,SineM9   ,A4
+
+01ab ,0031 ,006f ,003d ,0012 ,006f ,003d ,76    ,PIPEORGAN1    ,Organ1   ,A0       ,Organ1   ,A0
+01ac ,0031 ,006f ,003e ,0012 ,006f ,003e ,76    ,PIPEORGAN1    ,Organ1   ,A1       ,Organ1   ,A1
+01ad ,0031 ,006f ,003f ,0012 ,006f ,0143 ,76    ,PIPEORGAN1    ,Organ1   ,A2       ,Organ6   ,A2
+01ae ,0031 ,006f ,0040 ,0012 ,006f ,0040 ,76    ,PIPEORGAN1    ,Organ1   ,A3       ,Organ1   ,A3
+01af ,0031 ,006f ,0041 ,0012 ,006f ,0041 ,76    ,PIPEORGAN1    ,Organ1   ,A4       ,Organ1   ,A4
+
+01b0 ,0031 ,00b4 ,0144 ,0000 ,00b4 ,014d ,77    ,PIPEORGAN2    ,Organ6   ,A0       ,SawM10   ,A0
+01b1 ,0031 ,00b4 ,0146 ,0000 ,00b4 ,0145 ,77    ,PIPEORGAN2    ,Organ6   ,A1       ,Organ6   ,A1
+01b2 ,0031 ,00b4 ,0148 ,0000 ,00b4 ,0147 ,77    ,PIPEORGAN2    ,Organ6   ,A2       ,Organ6   ,A2
+01b3 ,0031 ,00b4 ,014a ,0000 ,00b4 ,0149 ,77    ,PIPEORGAN2    ,Organ6   ,A3       ,Organ6   ,A3
+01b4 ,0031 ,00b4 ,014c ,0000 ,00b4 ,014b ,77    ,PIPEORGAN2    ,Organ6   ,A4       ,Organ6   ,A4
+
+01b5 ,0031 ,0052 ,014e ,0000 ,0052 ,014e ,78    ,PIPEORGAN3    ,SawM8    ,A0       ,SawM8    ,A0
+01b6 ,0031 ,0052 ,014f ,0000 ,0052 ,014f ,78    ,PIPEORGAN3    ,SawM8    ,A2       ,SawM8    ,A2
+01b7 ,0031 ,0052 ,0150 ,0000 ,0052 ,0150 ,78    ,PIPEORGAN3    ,SawM8    ,A4       ,SawM8    ,A4
+
+01b8 ,0037 ,0065 ,0151 ,0012 ,0065 ,0151 ,79    ,ROCKORGAN     ,Organ3   ,A0       ,Organ3   ,A0
+01b9 ,0037 ,0065 ,0152 ,0012 ,0065 ,0152 ,79    ,ROCKORGAN     ,Organ3   ,A1       ,Organ3   ,A1
+01ba ,0037 ,0065 ,0153 ,0012 ,0065 ,0153 ,79    ,ROCKORGAN     ,Organ3   ,A2       ,Organ3   ,A2
+01bb ,0037 ,0065 ,0154 ,0012 ,0065 ,0154 ,79    ,ROCKORGAN     ,Organ3   ,A3       ,Organ3   ,A3
+01bc ,0037 ,0065 ,0155 ,0012 ,0065 ,0155 ,79    ,ROCKORGAN     ,Organ3   ,A4       ,Organ3   ,A4
+
+01bd ,003b ,00ca ,0157 ,003b ,00ca ,0157 ,80    ,WOODBASS1     ,BassG3   ,A1       ,BassG3   ,A1
+01be ,0043 ,00cb ,0158 ,0043 ,00cb ,0158 ,80    ,WOODBASS1     ,SinM17   ,A4       ,SinM17   ,A4
+
+01bf ,0031 ,00ce ,005b ,0031 ,00ce ,005b ,81    ,ELECBASS      ,BassG2   ,A0       ,BassG2   ,A0
+01c0 ,0000 ,00ce ,005d ,0000 ,00ce ,005d ,81    ,ELECBASS      ,BassG2   ,A1       ,BassG2   ,A1
+01c1 ,0000 ,00ce ,0159 ,0000 ,00ce ,0159 ,81    ,ELECBASS      ,SquarM3  ,A4       ,SquarM3  ,A4
+
+01c2 ,0031 ,00ce ,005b ,0012 ,00dd ,0035 ,82    ,SYNTHBASS2    ,BassG2   ,A0       ,EBass1   ,A1
+01c3 ,0031 ,00ce ,005b ,0012 ,00dd ,0036 ,82    ,SYNTHBASS2    ,BassG2   ,A0       ,EBass1   ,A2
+01c4 ,0000 ,00ce ,005d ,0012 ,00dd ,0036 ,82    ,SYNTHBASS2    ,BassG2   ,A1       ,EBass1   ,A2
+01c5 ,0000 ,00ce ,005d ,0012 ,00dd ,0036 ,82    ,SYNTHBASS2    ,BassG2   ,A1       ,EBass1   ,A2
+01c6 ,0000 ,00ce ,0159 ,0012 ,00dd ,0037 ,82    ,SYNTHBASS2    ,??       ,??       ,EBass1   ,A4
+
+01c7 ,0031 ,000e ,005b ,0031 ,0078 ,005b ,83    ,ELECBASS2     ,BassG2   ,A0       ,BassG2   ,A0
+01c8 ,0000 ,000e ,005d ,0000 ,0078 ,005d ,83    ,ELECBASS2     ,BassG2   ,A1       ,BassG2   ,A1
+01c9 ,0000 ,000e ,0159 ,0000 ,0078 ,0159 ,83    ,ELECBASS2     ,SquarM3  ,A4       ,SquarM3  ,A4
+
+01ca ,0031 ,007a ,015a ,0012 ,007a ,015a ,84    ,ELECBASS3     ,SinM14   ,A1       ,SinM14   ,A1
+01cb ,0031 ,007a ,015a ,0012 ,007a ,015a ,84    ,ELECBASS3     ,SinM14   ,A1       ,SinM14   ,A1
+01cc ,0031 ,007a ,015b ,0012 ,007a ,015b ,84    ,ELECBASS3     ,SinM14   ,A2       ,SinM14   ,A2
+01cd ,0031 ,007a ,015c ,0012 ,007a ,015c ,84    ,ELECBASS3     ,SinM14   ,A3       ,SinM14   ,A3
+01ce ,0031 ,007a ,015d ,0012 ,007a ,015d ,84    ,ELECBASS3     ,SinM14   ,A4       ,SinM14   ,A4
+
+01cf ,003b ,00ca ,0156 ,003b ,00ca ,0156 ,85    ,BASSPIANO     ,BassG3   ,A0       ,BassG3   ,A1
+01d0 ,0031 ,00c3 ,0003 ,0000 ,00c3 ,0003 ,85    ,BASSPIANO     ,Piano1   ,E2       ,Piano1   ,E2
+01d1 ,0031 ,00c2 ,0004 ,0000 ,00c2 ,0004 ,85    ,BASSPIANO     ,Piano1   ,A2       ,Piano1   ,A2
+01d2 ,0031 ,00c8 ,0005 ,0000 ,00c8 ,0005 ,85    ,BASSPIANO     ,Piano1   ,E3       ,Piano1   ,E3
+01d3 ,0031 ,00bd ,0006 ,0000 ,00bd ,0006 ,85    ,BASSPIANO     ,Piano1   ,A3       ,Piano1   ,A3
+01d4 ,0000 ,00be ,0194 ,0012 ,00be ,0194 ,85    ,BASSPIANO     ,Piano1   ,E4       ,Piano1   ,E4
+01d5 ,0031 ,00bf ,0194 ,0000 ,00bf ,0194 ,85    ,BASSPIANO     ,Piano1   ,E4       ,Piano1   ,E4
+
+01d6 ,0031 ,00ce ,005a ,0031 ,00ce ,005a ,86    ,BASSORGAN     ,BassG1   ,A0       ,BassG1   ,A0
+01d7 ,0000 ,00ce ,005c ,0000 ,00ce ,005c ,86    ,BASSORGAN     ,BassG1   ,A1       ,BassG1   ,A1
+01d8 ,0037 ,0065 ,0153 ,0012 ,0065 ,0153 ,86    ,BASSORGAN     ,Organ3   ,A2       ,Organ3   ,A2
+01d9 ,0037 ,0065 ,0154 ,0012 ,0065 ,0154 ,86    ,BASSORGAN     ,Organ3   ,A3       ,Organ3   ,A3
+01da ,0037 ,0065 ,0155 ,0012 ,0065 ,0155 ,86    ,BASSORGAN     ,Organ3   ,A4       ,Organ3   ,A4
+
+01db ,0037 ,00dd ,0035 ,0012 ,00dd ,0035 ,87    ,BASSBRASS     ,EBass1   ,A1       ,EBass1   ,A1
+01dc ,0037 ,00dd ,0035 ,0012 ,00dd ,0035 ,87    ,BASSBRASS     ,EBass1   ,A1       ,EBass1   ,A1
+01dd ,0049 ,0062 ,015e ,004c ,004f ,0161 ,87    ,BASSBRASS     ,SawM5    ,A2       ,??       ,??
+01de ,0049 ,0062 ,015f ,004c ,004f ,0162 ,87    ,BASSBRASS     ,SawM5    ,A3       ,??       ,??
+01df ,0049 ,0062 ,0160 ,004c ,004f ,0163 ,87    ,BASSBRASS     ,SawM5    ,A4       ,??       ,??
+
+01e0 ,003b ,00ca ,0156 ,003b ,00ca ,0156 ,88    ,BASSVIB       ,BassG3   ,A0       ,BassG3   ,A0
+01e1 ,003b ,002a ,0156 ,003b ,002a ,0156 ,88    ,BASSVIB       ,BassG3   ,A0       ,BassG3   ,A0
+01e2 ,0031 ,0045 ,0011 ,0012 ,0045 ,0011 ,88    ,BASSVIB       ,Sine1    ,A2       ,Sine1    ,A2
+01e3 ,0031 ,002d ,0015 ,0012 ,002d ,0015 ,88    ,BASSVIB       ,SineM1   ,A2       ,SineM1   ,A2
+01e4 ,0031 ,0045 ,0012 ,0012 ,0045 ,0012 ,88    ,BASSVIB       ,Sine1    ,A3       ,Sine1    ,A3
+01e5 ,0031 ,002d ,0016 ,0012 ,002d ,0016 ,88    ,BASSVIB       ,SineM1   ,A3       ,SineM1   ,A3
+01e6 ,0031 ,0045 ,0013 ,0012 ,0045 ,0013 ,88    ,BASSVIB       ,Sine1    ,A4       ,Sine1    ,A4
+01e7 ,0031 ,002d ,0017 ,0012 ,002d ,0017 ,88    ,BASSVIB       ,SineM1   ,A4       ,SineM1   ,A4
+
+01e8 ,0031 ,00ce ,005a ,0031 ,00ce ,005a ,89    ,BASSGUITAR    ,BassG1   ,A0       ,BassG1   ,A0
+01e9 ,0000 ,00ce ,005c ,0000 ,00ce ,005c ,89    ,BASSGUITAR    ,BassG1   ,A1       ,BassG1   ,A1
+01ea ,0031 ,0000 ,001a ,0000 ,00c9 ,001a ,89    ,BASSGUITAR    ,DistG1   ,A2       ,DistG1   ,A2
+01eb ,0031 ,0000 ,001d ,0000 ,00c9 ,001d ,89    ,BASSGUITAR    ,DistG1   ,A3       ,DistG1   ,A3
+01ec ,0031 ,0000 ,001d ,0000 ,00c9 ,001d ,89    ,BASSGUITAR    ,DistG1   ,A3       ,DistG1   ,A3
+
+01ed ,0000 ,0074 ,0164 ,0000 ,0073 ,0164 ,90    ,FANTASY1      ,SinM10   ,A0       ,SinM10   ,A0
+01ee ,0000 ,0074 ,0165 ,0000 ,0073 ,0165 ,90    ,FANTASY1      ,SinM10   ,A1       ,SinM10   ,A1
+01ef ,0000 ,0074 ,0166 ,0000 ,0073 ,0166 ,90    ,FANTASY1      ,SinM10   ,A2       ,SinM10   ,A2
+01f0 ,0000 ,0074 ,0167 ,0000 ,0073 ,0167 ,90    ,FANTASY1      ,SinM10   ,A3       ,SinM10   ,A3
+01f1 ,0000 ,0074 ,0168 ,0000 ,0073 ,0168 ,90    ,FANTASY1      ,SinM10   ,A4       ,SinM10   ,A4
+
+01f2 ,003a ,000a ,00bb ,0016 ,006a ,00bb ,91    ,FANTASY2      ,SineW6   ,A0       ,??       ,??
+01f3 ,003a ,000a ,00bd ,0016 ,006a ,00bd ,91    ,FANTASY2      ,SineW6   ,A1       ,??       ,??
+01f4 ,003a ,000a ,00bf ,0016 ,006a ,00bf ,91    ,FANTASY2      ,SineW6   ,A2       ,??       ,??
+01f5 ,003a ,000a ,00c1 ,0016 ,006a ,00c1 ,91    ,FANTASY2      ,SineW6   ,A3       ,??       ,??
+01f6 ,003a ,000a ,00c3 ,0016 ,006a ,00c3 ,91    ,FANTASY2      ,SineW6   ,A4       ,??       ,??
+
+01f7 ,0020 ,009d ,0169 ,001f ,009d ,0169 ,92    ,SYNTHSOUND    ,361dec
+01f8 ,0020 ,009d ,016a ,001f ,009d ,016a ,92    ,SYNTHSOUND    ,??
+01f9 ,0020 ,009d ,016b ,001f ,009d ,016b ,92    ,SYNTHSOUND    ,??
+01fa ,0020 ,009d ,016c ,001f ,009d ,016c ,92    ,SYNTHSOUND    ,??
+01fb ,0020 ,009d ,016d ,001f ,009d ,016d ,92    ,SYNTHSOUND    ,??
+
+01fc ,003b ,0063 ,016e ,0000 ,0063 ,016e ,93    ,SYNTHENS1
+01fd ,003b ,0063 ,016f ,0000 ,0063 ,016f ,93    ,SYNTHENS1
+01fe ,003b ,0063 ,0170 ,0000 ,0063 ,0170 ,93    ,SYNTHENS1
+01ff ,003b ,0063 ,0171 ,0000 ,0063 ,0171 ,93    ,SYNTHENS1
+0200 ,003b ,0063 ,0172 ,0000 ,0063 ,0172 ,93    ,SYNTHENS1
+
+0201 ,0054 ,0053 ,0173 ,0054 ,0053 ,0173 ,94    ,SYNTHENS2
+0202 ,0054 ,0053 ,0174 ,0054 ,0053 ,0174 ,94    ,SYNTHENS2
+0203 ,0054 ,0053 ,0175 ,0054 ,0053 ,0175 ,94    ,SYNTHENS2
+0204 ,0054 ,0053 ,0176 ,0054 ,0053 ,0176 ,94    ,SYNTHENS2
+0205 ,0054 ,0053 ,0177 ,0054 ,0053 ,0177 ,94    ,SYNTHENS2
+
+0206 ,0032 ,0091 ,0178 ,0013 ,0091 ,0178 ,95    ,ALARM         ,sin      ,A0       ,sin      ,A0
+0207 ,0027 ,00dc ,017a ,0029 ,00dc ,017a ,95    ,ALARM         ,sin      ,A0       ,sin      ,A0
+0208 ,002b ,0091 ,017b ,002a ,0091 ,017b ,95    ,ALARM         ,saw      ,A0       ,saw      ,A0
+
+0209 ,0031 ,0026 ,00bb ,0012 ,0043 ,00bb ,96    ,TWINKLEECHO   ,SineW6   ,A0       ,SineW6   ,A0
+020a ,0031 ,0026 ,00bd ,0012 ,0043 ,00bd ,96    ,TWINKLEECHO   ,SineW6   ,A1       ,SineW6   ,A1
+020b ,0031 ,0026 ,00bf ,0012 ,0043 ,00bf ,96    ,TWINKLEECHO   ,SineW6   ,A2       ,SineW6   ,A2
+020c ,0031 ,0026 ,00c1 ,0012 ,0043 ,00c1 ,96    ,TWINKLEECHO   ,SineW6   ,A3       ,SineW6   ,A3
+020d ,0031 ,0026 ,00c3 ,0012 ,0043 ,00c3 ,96    ,TWINKLEECHO   ,SineW6   ,A4       ,SineW6   ,A4
+
+020e ,002d ,00b3 ,0179 ,002f ,00b3 ,0179 ,97    ,INSECT        ,tri      ,A0       ,tri      ,A0
+020f ,002c ,00b5 ,0179 ,002e ,00b5 ,0179 ,97    ,INSECT        ,tri      ,A0       ,tri      ,A0
+0210 ,0028 ,00b6 ,0179 ,0030 ,00b6 ,0179 ,97    ,INSECT        ,tri      ,A0       ,tri      ,A0
+
+0211 ,0005 ,00aa ,00bb ,0005 ,00aa ,00bb ,98    ,COMPUTERGAME  ,SineW6   ,A0       ,SineW6   ,A0
+0212 ,0005 ,00aa ,00bd ,0005 ,00aa ,00bd ,98    ,COMPUTERGAME  ,SineW6   ,A1       ,SineW6   ,A1
+0213 ,0005 ,00aa ,00bf ,0005 ,00aa ,00bf ,98    ,COMPUTERGAME  ,SineW6   ,A2       ,SineW6   ,A2
+0214 ,0005 ,00aa ,00c1 ,0005 ,00aa ,00c1 ,98    ,COMPUTERGAME  ,SineW6   ,A3       ,SineW6   ,A3
+0215 ,0005 ,00aa ,00c3 ,0005 ,00aa ,00c3 ,98    ,COMPUTERGAME  ,SineW6   ,A4       ,SineW6   ,A4
+
+0216 ,000d ,0048 ,017c ,000d ,0048 ,017c ,99    ,SPACE         ,Bell1    ,A0       ,Bell1    ,A0
+0217 ,000d ,0048 ,017d ,000d ,0048 ,017d ,99    ,SPACE         ,Bell1    ,A1       ,Bell1    ,A1
+0218 ,000d ,0048 ,017e ,000d ,0048 ,017e ,99    ,SPACE         ,Bell1    ,A2       ,Bell1    ,A2
+0219 ,000d ,0048 ,017f ,000d ,0048 ,017f ,99    ,SPACE         ,Bell1    ,A3       ,Bell1    ,A3
+021a ,000d ,0048 ,0180 ,000d ,0048 ,0180 ,99    ,SPACE         ,Bell1    ,A4       ,Bell1    ,A4
+
+021b ,0000 ,006e ,0047 ,0000 ,006e ,0047 ,100   ,STRINGS2      ,Strng1   ,A1       ,Strng1   ,A1
+021c ,0019 ,006e ,0048 ,0019 ,006e ,0048 ,100   ,STRINGS2      ,Strng1   ,A2       ,Strng1   ,A2
+021d ,0019 ,006e ,0049 ,0019 ,006e ,0049 ,100   ,STRINGS2      ,Strng1   ,A4       ,Strng1   ,A4
+
+021e ,0033 ,000d ,0181 ,0014 ,006b ,0181 ,101   ,STRINGS3      ,SawM2    ,A0       ,SawM2    ,A0
+021f ,0033 ,000d ,0182 ,0014 ,006b ,0182 ,101   ,STRINGS3      ,SawM2    ,A1       ,SawM2    ,A1
+0220 ,0033 ,000d ,0183 ,0014 ,006b ,0183 ,101   ,STRINGS3      ,SawM2    ,A2       ,SawM2    ,A2
+0221 ,0033 ,000d ,0184 ,0014 ,006b ,0184 ,101   ,STRINGS3      ,SawM2    ,A3       ,SawM2    ,A3
+0222 ,0033 ,000d ,0185 ,0014 ,006b ,0185 ,101   ,STRINGS3      ,SawM2    ,A4       ,SawM2    ,A4
+
+0223 ,0055 ,000f ,0042 ,001c ,0093 ,0042 ,102   ,CHOIR         ,SineM3   ,A0       ,SineM3   ,A0
+0224 ,0055 ,000f ,0043 ,0017 ,0093 ,0043 ,102   ,CHOIR         ,SineM3   ,A1       ,SineM3   ,A1
+0225 ,0055 ,000f ,0044 ,001c ,0093 ,0044 ,102   ,CHOIR         ,SineM3   ,A2       ,SineM3   ,A2
+0226 ,0056 ,000f ,0045 ,001c ,0093 ,0045 ,102   ,CHOIR         ,SineM3   ,A3       ,SineM3   ,A3
+0227 ,0056 ,000f ,0046 ,001c ,0093 ,0046 ,102   ,CHOIR         ,SineM3   ,A4       ,SineM3   ,A4
+
+0228 ,0049 ,0062 ,0186 ,0025 ,004f ,0188 ,103   ,BRASS1
+0229 ,0049 ,0062 ,0187 ,004c ,004f ,0189 ,103   ,BRASS1
+022a ,0049 ,0062 ,015e ,004c ,004f ,0161 ,103   ,BRASS1        ,SawM5    ,A2       ,??       ,??
+022b ,0049 ,0062 ,015f ,004c ,004f ,0162 ,103   ,BRASS1        ,SawM5    ,A3       ,??       ,??
+022c ,0049 ,0062 ,0160 ,004c ,004f ,0163 ,103   ,BRASS1        ,SawM5    ,A4       ,??       ,??
+
+022d ,0045 ,0062 ,0186 ,001e ,0062 ,0186 ,104   ,BRASS2
+022e ,0045 ,0062 ,0187 ,001e ,0062 ,0187 ,104   ,BRASS2
+022f ,0045 ,0062 ,015e ,001e ,0062 ,015e ,104   ,BRASS2        ,SawM5    ,A2       ,SawM5    ,A2
+0230 ,004e ,0062 ,015f ,001e ,0062 ,015f ,104   ,BRASS2        ,SawM5    ,A3       ,SawM5    ,A3
+0231 ,0053 ,0062 ,0160 ,001e ,0062 ,0160 ,104   ,BRASS2        ,SawM5    ,A4       ,SawM5    ,A4
+
+0232 ,0021 ,0037 ,018a ,0044 ,0038 ,0186 ,105   ,ENSEMBLE1
+0233 ,0044 ,0038 ,0186 ,001e ,0062 ,018a ,105   ,ENSEMBLE1
+0234 ,0021 ,0037 ,018b ,0044 ,0038 ,0187 ,105   ,ENSEMBLE1
+0235 ,0044 ,0038 ,0187 ,001e ,0062 ,018b ,105   ,ENSEMBLE1
+0236 ,0021 ,0037 ,018c ,0044 ,0038 ,015e ,105   ,ENSEMBLE1     ,??       ,??       ,SawM5    ,A2
+0237 ,0044 ,0038 ,015e ,001e ,0062 ,018c ,105   ,ENSEMBLE1     ,SawM5    ,A2       ,??       ,??
+0238 ,004a ,0037 ,018d ,004d ,0038 ,015f ,105   ,ENSEMBLE1     ,??       ,??       ,SawM5    ,A3
+0239 ,004d ,0038 ,015f ,001e ,0062 ,018d ,105   ,ENSEMBLE1     ,SawM5    ,A3       ,??       ,??
+023a ,004a ,0037 ,018e ,0052 ,0038 ,0160 ,105   ,ENSEMBLE1     ,??       ,??       ,SawM5    ,A4
+023b ,0052 ,0038 ,0160 ,001e ,0062 ,018e ,105   ,ENSEMBLE1     ,SawM5    ,A4       ,??       ,??
+
+023c ,0011 ,00df ,00d0 ,0000 ,005b ,00e7 ,106   ,ENSEMBLE2
+023d ,0011 ,00df ,00d1 ,0000 ,005e ,00e9 ,106   ,ENSEMBLE2
+023e ,0011 ,00df ,00d1 ,0000 ,0061 ,00eb ,106   ,ENSEMBLE2
+023f ,0011 ,00df ,00d2 ,0000 ,0061 ,00ed ,106   ,ENSEMBLE2
+0240 ,0011 ,00df ,00d3 ,0000 ,0061 ,00ef ,106   ,ENSEMBLE2
+
+0241 ,0031 ,0017 ,0022 ,0012 ,00de ,00d0 ,107   ,ENSEMBLE3     ,Horn1    ,A1       ,??       ,??
+0242 ,0031 ,0017 ,0023 ,0012 ,00de ,00d1 ,107   ,ENSEMBLE3     ,Horn1    ,A2       ,??       ,??
+0243 ,0031 ,0017 ,0027 ,0012 ,00de ,00d2 ,107   ,ENSEMBLE3     ,Horn2    ,A3       ,??       ,??
+0244 ,0031 ,0017 ,0025 ,0012 ,00de ,00d3 ,107   ,ENSEMBLE3     ,Horn2    ,A4       ,??       ,??
+
+0245 ,000a ,0036 ,0181 ,0000 ,0070 ,0047 ,108   ,ENSEMBLE3     ,SawM2    ,A0       ,Strng1   ,A1
+0246 ,000a ,0036 ,0182 ,0000 ,0070 ,0047 ,108   ,ENSEMBLE3     ,SawM2    ,A1       ,Strng1   ,A1
+0247 ,000a ,0036 ,0182 ,0019 ,0070 ,0048 ,108   ,ENSEMBLE3     ,SawM2    ,A1       ,Strng1   ,A2
+0248 ,000a ,0036 ,0183 ,0019 ,0070 ,0048 ,108   ,ENSEMBLE3     ,SawM2    ,A2       ,Strng1   ,A2
+0249 ,000a ,0036 ,0184 ,0019 ,0070 ,0049 ,108   ,ENSEMBLE3     ,SawM2    ,A3       ,Strng1   ,A4
+024a ,000a ,0036 ,0185 ,0019 ,0070 ,0049 ,108   ,ENSEMBLE3     ,SawM2    ,A4       ,Strng1   ,A4
+
+024b ,0000 ,0019 ,0070 ,0000 ,00b7 ,0070 ,109   ,ENSEMBLE5     ,Xylo1    ,A1       ,Xylo1    ,A1
+024c ,0037 ,0095 ,0047 ,0019 ,0095 ,0047 ,109   ,ENSEMBLE5     ,Strng1   ,A1       ,Strng1   ,A1
+024d ,0000 ,001a ,0071 ,0000 ,00c5 ,0071 ,109   ,ENSEMBLE5     ,Xylo1    ,A2       ,Xylo1    ,A2
+024e ,0000 ,0095 ,0048 ,001d ,0095 ,0048 ,109   ,ENSEMBLE5     ,Strng1   ,A2       ,Strng1   ,A2
+024f ,0000 ,001b ,0072 ,0000 ,00c6 ,0072 ,109   ,ENSEMBLE5     ,Xylo1    ,A3       ,Xylo1    ,A3
+0250 ,0000 ,0095 ,0049 ,001d ,0095 ,0049 ,109   ,ENSEMBLE5     ,Strng1   ,A4       ,Strng1   ,A4
+0251 ,0000 ,001c ,0073 ,0000 ,00c7 ,0073 ,109   ,ENSEMBLE5     ,Xylo1    ,A4       ,Xylo1    ,A4
+0252 ,0000 ,0095 ,0049 ,001d ,0095 ,0049 ,109   ,ENSEMBLE5     ,Strng1   ,A4       ,Strng1   ,A4
+
+0253 ,0000 ,00db ,0098 ,0000 ,00db ,0098 ,??    ,PERCUSSION2?  ,KickDr   ,C0       ,KickDr   ,C0
+0254 ,0000 ,00d8 ,0099 ,0000 ,00d8 ,0099 ,??    ,PERCUSSION2?  ,Snare1   ,A#0      ,Snare1   ,A#0
+0255 ,0000 ,00db ,00b0 ,0000 ,00db ,00b0 ,??    ,PERCUSSION2?  ,Snare3   ,??       ,Snare3   ,??
+0256 ,0000 ,0030 ,009b ,0000 ,0090 ,009b ,??    ,PERCUSSION2?  ,HHClsd   ,A#0      ,HHClsd   ,A#0
+0257 ,0000 ,0031 ,009c ,0000 ,0092 ,009c ,??    ,PERCUSSION2?  ,HHOpen   ,D1       ,HHOpen   ,D1
+0258 ,0000 ,003c ,009e ,0000 ,00ab ,009e ,??    ,PERCUSSION2?  ,Crash1   ,??       ,Crash1   ,??
+0259 ,0000 ,00ac ,00a2 ,0000 ,003d ,00a2 ,??    ,PERCUSSION2?  ,Cymbl1   ,??       ,Cymbl1   ,??
+025a ,0000 ,002a ,00a3 ,0000 ,00db ,00a3 ,??    ,PERCUSSION2?  ,Tom1     ,??       ,Tom1     ,??
+025b ,0000 ,0056 ,00a4 ,0000 ,00ac ,00a4 ,??    ,PERCUSSION2?  ,Tom1     ,??       ,Tom1     ,??
+025c ,0000 ,00ac ,00a5 ,0000 ,00db ,00a5 ,??    ,PERCUSSION2?  ,Tom1     ,??       ,Tom1     ,??
+025d ,0000 ,00db ,00a6 ,0000 ,002a ,00a6 ,??    ,PERCUSSION2?  ,Tom1     ,??       ,Tom1     ,??
+025e ,0000 ,007b ,00a7 ,0000 ,007b ,00a7 ,??    ,PERCUSSION2?  ,Cowbll   ,??       ,Cowbll   ,??
+025f ,0000 ,002a ,00aa ,0000 ,00da ,00aa ,??    ,PERCUSSION2?  ,Bongo1   ,??       ,Bongo1   ,??
+0260 ,0000 ,00db ,00af ,0000 ,003d ,00af ,??    ,PERCUSSION2?  ,Shaker   ,??       ,Shaker   ,??
+0261 ,0000 ,002f ,0074 ,0000 ,0077 ,0074 ,??    ,PERCUSSION2?  ,Xylo1    ,B4       ,Xylo1    ,B4
+0262 ,0000 ,00db ,0190 ,0000 ,00db ,0190 ,??    ,PERCUSSION2?  ,Clave    ,C5       ,Clave    ,C5
+
+0263 ,0000 ,00db ,0098 ,0000 ,00db ,0098 ,??    ,PERCUSSION3?  ,KickDr   ,C0       ,KickDr   ,C0
+0264 ,0000 ,00d8 ,0099 ,0000 ,00d8 ,0099 ,??    ,PERCUSSION3?  ,Snare1   ,A#0      ,Snare1   ,A#0
+0265 ,0000 ,00db ,00b0 ,0000 ,00db ,00b0 ,??    ,PERCUSSION3?  ,Snare3   ,??       ,Snare3   ,??
+0266 ,0000 ,003c ,009e ,0000 ,00ab ,009e ,??    ,PERCUSSION3?  ,Crash1   ,??       ,Crash1   ,??
+0267 ,0000 ,00ac ,00a2 ,0000 ,003d ,00a2 ,??    ,PERCUSSION3?  ,Cymbl1   ,??       ,Cymbl1   ,??
+0268 ,0000 ,002a ,00a3 ,0000 ,00db ,00a3 ,??    ,PERCUSSION3?  ,Tom1     ,??       ,Tom1     ,??
+0269 ,0000 ,0056 ,00a4 ,0000 ,00ac ,00a4 ,??    ,PERCUSSION3?  ,Tom1     ,??       ,Tom1     ,??
+026a ,0000 ,00ac ,00a5 ,0000 ,00db ,00a5 ,??    ,PERCUSSION3?  ,Tom1     ,??       ,Tom1     ,??
+026b ,0000 ,007b ,00a7 ,0000 ,007b ,00a7 ,??    ,PERCUSSION3?  ,Cowbll   ,??       ,Cowbll   ,??
+026c ,0000 ,002a ,00a8 ,0000 ,00b8 ,00a8 ,??    ,PERCUSSION3?  ,Bongo1   ,??       ,Bongo1   ,??
+026d ,0000 ,002a ,00aa ,0000 ,00da ,00aa ,??    ,PERCUSSION3?  ,Bongo1   ,??       ,Bongo1   ,??
+026e ,0000 ,00db ,00ae ,0000 ,003d ,00ae ,??    ,PERCUSSION3?  ,Shaker   ,??       ,Shaker   ,??
+026f ,0000 ,002a ,00a9 ,0000 ,00b8 ,00a9 ,??    ,PERCUSSION3?  ,Bongo1   ,??       ,Bongo1   ,??
+0270 ,0000 ,002a ,00ab ,0000 ,00da ,00ab ,??    ,PERCUSSION3?  ,Bongo1   ,??       ,Bongo1   ,??
+0271 ,0000 ,002a ,00ac ,0000 ,00da ,00ac ,??    ,PERCUSSION3?  ,Bongo1   ,??       ,Bongo1   ,??
+0272 ,0000 ,002f ,0074 ,0000 ,0077 ,0074 ,??    ,PERCUSSION3?  ,Xylo1    ,B4       ,Xylo1    ,B4
+
+0273 ,0000 ,00db ,0098 ,0000 ,00db ,0098 ,??    ,PERCUSSION4?  ,KickDr   ,C0       ,KickDr   ,C0
+0274 ,0000 ,00d8 ,0099 ,0000 ,00d8 ,0099 ,??    ,PERCUSSION4?  ,Snare1   ,A#0      ,Snare1   ,A#0
+0275 ,0000 ,00db ,00b0 ,0000 ,00db ,00b0 ,??    ,PERCUSSION4?  ,Snare3   ,??       ,Snare3   ,??
+0276 ,0000 ,0030 ,009b ,0000 ,0090 ,009b ,??    ,PERCUSSION4?  ,HHClsd   ,A#0      ,HHClsd   ,A#0
+0277 ,0000 ,0031 ,009c ,0000 ,0092 ,009c ,??    ,PERCUSSION4?  ,HHOpen   ,D1       ,HHOpen   ,D1
+0278 ,000c ,003c ,009f ,0008 ,00ab ,009f ,??    ,PERCUSSION4?  ,Crash1   ,??       ,Crash1   ,??
+0279 ,0007 ,003c ,00a0 ,0006 ,003c ,00a0 ,??    ,PERCUSSION4?  ,Crash1   ,??       ,Crash1   ,??
+027a ,0057 ,00ab ,00a1 ,0026 ,00ab ,00a1 ,??    ,PERCUSSION4?  ,Crash1   ,??       ,Crash1   ,??
+027b ,0004 ,002a ,0191 ,0004 ,0076 ,0191 ,??    ,PERCUSSION4?  ,Square1  ,E2       ,Square1  ,E2
+027c ,0004 ,0076 ,0192 ,0004 ,002a ,0192 ,??    ,PERCUSSION4?  ,Square1  ,A#2      ,Square1  ,A#2
+027d ,0000 ,0055 ,0193 ,0000 ,0054 ,0193 ,??    ,PERCUSSION4?  ,Square1  ,F#3      ,Square1  ,F#3
+027e ,0000 ,00db ,00b1 ,0000 ,00db ,00b1 ,??    ,PERCUSSION4?  ,Snare3   ,??       ,Snare3   ,??
+
+027f ,0000 ,00db ,0098 ,0000 ,00db ,0098 ,??    ,PERCUSSION5?  ,KickDr   ,C0       ,KickDr   ,C0
+0280 ,0000 ,00d8 ,0099 ,0000 ,00d8 ,0099 ,??    ,PERCUSSION5?  ,Snare1   ,A#0      ,Snare1   ,A#0
+0281 ,0000 ,00db ,009a ,0000 ,00db ,009a ,??    ,PERCUSSION5?  ,Snare2   ,G#0      ,Snare2   ,G#0
+0282 ,0000 ,0030 ,009b ,0000 ,0090 ,009b ,??    ,PERCUSSION5?  ,HHClsd   ,A#0      ,HHClsd   ,A#0
+0283 ,0000 ,0031 ,009c ,0000 ,0092 ,009c ,??    ,PERCUSSION5?  ,HHOpen   ,D1       ,HHOpen   ,D1
+0284 ,0000 ,003c ,009e ,0000 ,00ab ,009e ,??    ,PERCUSSION5?  ,Crash1   ,??       ,Crash1   ,??
+0285 ,0000 ,00ac ,00a2 ,0000 ,003d ,00a2 ,??    ,PERCUSSION5?  ,Cymbl1   ,??       ,Cymbl1   ,??
+0286 ,0000 ,002a ,00a3 ,0000 ,00db ,00a3 ,??    ,PERCUSSION5?  ,Tom1     ,??       ,Tom1     ,??
+0287 ,0000 ,0056 ,00a4 ,0000 ,00ac ,00a4 ,??    ,PERCUSSION5?  ,Tom1     ,??       ,Tom1     ,??
+0288 ,0000 ,00ac ,00a5 ,0000 ,00db ,00a5 ,??    ,PERCUSSION5?  ,Tom1     ,??       ,Tom1     ,??
+0289 ,0000 ,000c ,00ad ,0000 ,0009 ,00ad ,??    ,PERCUSSION5?  ,Shaker   ,??       ,Shaker   ,??
+028a ,0000 ,007b ,00a7 ,0000 ,007b ,00a7 ,??    ,PERCUSSION5?  ,Cowbll   ,??       ,Cowbll   ,??
+028b ,0000 ,0031 ,009d ,0000 ,0092 ,009d ,??    ,PERCUSSION5?  ,Cymbl2   ,??       ,Cymbl2   ,??
+028c ,0000 ,000b ,00af ,0000 ,0008 ,00af ,??    ,PERCUSSION5?  ,Shaker   ,??       ,Shaker   ,??
+028d ,0000 ,00db ,00b1 ,0000 ,00db ,00b1 ,??    ,PERCUSSION5?  ,Snare3   ,??       ,Snare3   ,??
+
